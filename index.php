@@ -3,14 +3,14 @@
     <head>
         <title>MSEUF UAPSA</title>
         <style type="text/css">
-        #header {
+        header {
             background-color:black;
             color:white;
             text-align:center;
             padding:5px;
             
         }
-        #nav {
+        nav {
             line-height:30px;
             background-color:#eeeeee;
             height:300px;
@@ -19,13 +19,13 @@
             padding:5px;
             
         }
-        #section {
+        section {
             width:350px;
             float:left;
             padding:10px; 
             
         }
-        #footer {
+        footer {
             background-color:black;
             color:white;
             clear:both;
