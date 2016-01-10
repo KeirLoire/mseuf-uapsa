@@ -5,7 +5,7 @@
     	<meta name="description" content="">
     	<meta name="keywords" content="">
     	<title>UAPSA :: MSEUF Chapter</title>
-        <link rel="shortcut icon" type="images/x-icon" href="favicon.ico">
+        <link rel="shortcut icon" type="images/x-icon" href="http://mseufuapsa.azurewebsites.net/favicon.ico">
         <link href="css/main.css" rel="stylesheet" type="text/css"/>
         <link href="css/main-responsive.css" rel="stylesheet" type="text/css"/>
         <link href="css/themify-icons.css" rel="stylesheet" type="text/css"/>
@@ -22,8 +22,8 @@
             	<div class="header">
             		<div class="inner">
                     		<h1 class="logo">
-                        		<a href="index.php">
-                            			<img src="images/logo-uapsa-mseuf.jpg" alt="UAPSA MSEUF Logo" />
+                        		<a href="http://mseufuapsa.azurewebsites.net/">
+                            			<img src="http://mseufuapsa.azurewebsites.net/images/logo-uapsa-mseuf.jpg" alt="UAPSA MSEUF Logo" />
                         			<div>
                         				United Architects of the Philippines Student Auxillary
                         				<span>
