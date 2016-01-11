@@ -17,32 +17,32 @@
         <script type="text/javascript" src="http://uapsa-mseuf.azurewebsites.net/js/simplemodal.js"></script>
     </head>
 	<body>
-    	<div class="main">
+    	<div id="main">
         	<div class="inner">
-            	<div class="header">
+            	<div id="header">
             		<div class="inner">
-                    		<h1 class="logo">
+                    		<h1 id="logo">
                         		<a href="http://uapsa-mseuf.azurewebsites.net/">
                             			<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-uapsa-mseuf.jpg" alt="UAPSA-MSEUF Logo" />
                         			<div>
                         				United Architects of the Philippines Student Auxillary
                         				<span>Manuel S. Enverga University Foundation Chapter</span>
                         			</div>
-                        			</a>
+                        		</a>
                     		</h1>
                     		<div style="float:right;">
-                    			<h1 class="logo">
-                    			<a href="http://mseuf.edu.ph/">
-                    				<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-mseuf.png" alt="MSEUF Logo" />
-                    			</a>
+                    			<h1 id="logo">
+                    				<a href="http://mseuf.edu.ph/">
+                    					<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-mseuf.png" alt="MSEUF Logo" />
+                    				</a>
+                                </h1>
                     		</div>
-                    		</h1>
                 	</div>
                     <div class="clear"></div>
             	</div>
-           		<div class="navigation">
+           		<div id="navigation">
             		<div class="inner">
-                		<ul class="nav">
+                		<ul id="nav">
                         	<li>
                             	<a href="http://uapsa-mseuf.azurewebsites.net/" class="active">Home</a>
                             </li>
@@ -67,12 +67,18 @@
                             	<a href="http://uapsa-mseuf.azurewebsites.net/members/">Members</a>
                             </li>
                             <li>
-                            <a href="http://uapsa-mseuf.azurewebsites.net/gallery/">Gallery</a>
+                            	<a href="http://uapsa-mseuf.azurewebsites.net/gallery/">Gallery</a>
                             </li>
                             <li>
-                            <a href="http://uapsa-mseuf.azurewebsites.net/contact/">Contact Us</a>
+                            	<a href="http://uapsa-mseuf.azurewebsites.net/contactus/">Contact Us</a>
                             </li>
                         </ul>
+                        <div class="search">
+                        	<form method="post" action="#">
+                            	<input type="text" placeholder="Enter keywords" />
+                                <input type="submit" value="Search" />
+                            </form>
+                        </div>
                         <div class="clear"></div>
             	    </div>
             	</div>
