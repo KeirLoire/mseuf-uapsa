@@ -89,7 +89,7 @@
                             	<li id="n1" onclick="selectSlide(1)" class="normal selected"></li>
                                 <li id="n2" onclick="selectSlide(2)" class="normal"></li>
                             </ul>
-                            <ul id="slider" style="width: 2140px; 0px;">
+                            <ul id="slider" style="width: 2140px; left: 0px;">
                             	<li class="slide" style="height: 334.375px; width: 1070px;">
                                 	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/20150921-conex.jpg" alt="Convetion Exhibit" />
                                 </li>
@@ -118,7 +118,7 @@
                                             					<div class="data">January 10, 2016</div>
                                             					<div class="body">
                                             						<p>UAPSA MSEUF Chapter</p>
-                                            						<p>"We would like to thank the people helped us in creating and designing this website.</p>
+                                            						<p>"United Architects of the Philippines Student Auxiliary (UAPSA) is the student organization of the United Architects of the Philippines (UAP) in Manuel S. Enverga University Foundation (MSEUF)."</p>
                                             						<div class="clear"></div>
                                             						<div class="clear"></div>
                                             						<br>
@@ -177,7 +177,7 @@
             		</div>
             		<div id="footer">
             			<div class="inner">
-            				<h1>
+            				<h1 id="logo">
             					<span>United Architects of the Philippines Student Auxillary &copy 2016<br>Manuel S. Enverga University Foundation Chapter</span>
             				</h1>
                 		</div>
