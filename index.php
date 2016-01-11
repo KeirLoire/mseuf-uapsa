@@ -80,7 +80,7 @@
             		<div class="inner">
                 		<div class="banner" style="height:334.375px;">
                         	<ul class="slider-nav">
-                            	<li class="n1" onclick="selectSlide(1)" class="normal"></li>
+                            	<li class="n1" onclick="selectSlide(1)" class="normal selected"></li>
                                 <li class="n2" onclick="selectSlide(2)" class="normal"></li>
                             </ul>
                             <ul id="slider" style="width: 4280px; 0px;">
