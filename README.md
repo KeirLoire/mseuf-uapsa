@@ -1,2 +1,2 @@
-# mseufuapsa.azurewebsites.net
-MSEUF UAPSA Website
+# uapsa-mseuf.azurewebsites.net
+UAPSA-MSEUF Website
