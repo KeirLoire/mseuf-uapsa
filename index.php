@@ -26,9 +26,7 @@
                             			<img src="images/logo-uapsa-mseuf.jpg" alt="UAPSA MSEUF Logo" />
                         			<div>
                         				United Architects of the Philippines Student Auxillary
-                        				<span>
-                                				Manuel S. Enverga University Foundation Chapter
-                                			</span>
+                        				<span>Manuel S. Enverga University Foundation Chapter</span>
                         			</div>
                         			</a>
                     		</h1>
@@ -111,7 +109,9 @@
             	</div>
             	<div class="footer">
             		<div class="inner">
-                    	
+            			<h1>
+            				<span>Manuel S. Enverga University Foundation Chapter</span>	
+            			</h1>
                 	</div>
             	</div>
             </div>
