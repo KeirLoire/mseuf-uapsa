@@ -158,6 +158,7 @@
                         		<br>
                         		<br>
                         		<div class="clear"></div>
+                        		<div class="clear"></div>
                         		<div id="partners">
                         			<div class="header">
                             				<div class="context">
@@ -178,7 +179,6 @@
                                 			</div>
                             			</div>
                         		</div>
-                        		<div class="clear"></div>
                 		</div>
             		</div>
             		<div id="footer">
