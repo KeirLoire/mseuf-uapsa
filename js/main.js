@@ -158,6 +158,6 @@ function conDelItem(id,table) {
 
 $(document).ready(function() {
    playSlider();
-   selectHomeSection('events');
+   selectHomeSection('announcements');
 });
       
