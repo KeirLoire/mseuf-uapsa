@@ -75,21 +75,14 @@
                         	<ul class="slider-nav">
                             	<li class="n1" onclick="selectSlide(1)" class="normal"></li>
                                 <li class="n2" onclick="selectSlide(2)" class="normal"></li>
-                                <li class="n3" onclick="selectSlide(3)" class="normal"></li>
-                                <li class="n4" onclick="selectSlide(4)" class="normal"></li>
                             </ul>
                             <ul id="slider" style="width: 4280px; 0px;">
                             	<li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/banner1.jpg" alt="Banner 1" />
+                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/20150921-conex.jpg" alt="Convetion Exhibit" />
                                 </li>
                                 <li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/banner2.jpg" alt="Banner 2" />
+                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/20151126-naw-national-artistjpg" alt="Paghugpong Bonding Together Towards Higher Ground" />
                                 </li>
-                                <li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/banner3.jpg" alt="Banner 3" />
-                                </li>
-                                <li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/banner4.jpg" alt="Banner 4" />
                                 </li>
                             </ul>
                         </div>
