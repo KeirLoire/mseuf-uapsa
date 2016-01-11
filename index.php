@@ -110,7 +110,7 @@
             	<div class="footer">
             		<div class="inner">
             			<h1>
-            				<span>Manuel S. Enverga University Foundation Chapter</span>	
+            				<span>United Architects of the Philippines Student Auxillary &copy 2016<br>Manuel S. Enverga University Foundation Chapter</span>
             			</h1>
                 	</div>
             	</div>
