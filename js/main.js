@@ -154,3 +154,10 @@ function conDelItem(id,table) {
    $('#con-del-item .options a:first-child').attr('href','functions/delete-item.php?id='+id+'&table='+encodeURIComponent(table));
    $('#con-del-item').modal();
 }
+
+
+$(document).ready(function() {
+   playSlider();
+   selectHomeSection('events');
+});
+      
