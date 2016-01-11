@@ -32,7 +32,7 @@
                     		</h1>
                     		<div>
                     			<a href="http://mseuf.edu.ph/">
-                    				<img src="http://uapsa-mseuf.azurewebsites.net/images/logo--mseuf.png" alt="MSEUF Logo" />
+                    				<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-mseuf.png" alt="MSEUF Logo" />
                     			</a>
                     		</div>
                 	</div>
