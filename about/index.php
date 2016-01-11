@@ -37,10 +37,10 @@
             		<div class="inner">
                 		<ul class="nav">
                         	<li>
-                            	<a href="http://mseufuapsa.azurewebsites.net/" class="active">Home</a>
+                            	<a href="http://mseufuapsa.azurewebsites.net/">Home</a>
                             </li>
                             <li>
-                            	<a href="http://mseufuapsa.azurewebsites.net/about/">About</a>
+                            	<a href="http://mseufuapsa.azurewebsites.net/about/" class="active">About</a>
                                 <ul>
                                 	<li>
                                     	<a href="http://mseufuapsa.azurewebsites.net/about/vision-mission-objectives/">Vision, Mission, Objectives</a>
