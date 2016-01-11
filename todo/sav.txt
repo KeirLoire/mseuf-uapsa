@@ -1,0 +1,342 @@
+<html><head>
+      <title>UAP The Story of UAP</title>
+      <!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="http://united-architects.org/support/favicon.ico">
+
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/themify-icons.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/lightbox.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/jquery-te.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/main.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/main-responsive.css">
+
+<!-- JS -->
+<script type="text/javascript" src="http://united-architects.org/js/jquery.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/simplemodal.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/lightbox.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/jquery-te.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/main.js"></script>      <script type="text/javascript">
+         $(document).ready(function() {
+            playSlider();
+         });
+      </script>
+   </head>
+   <body>
+      
+      <div id="main">
+         <div class="inner">
+            
+            <div id="header">
+   <div class="inner">
+      <h1 id="logo">
+         <a href="http://united-architects.org/index.php">
+            <img src="http://united-architects.org/images/logo-uap.jpg" alt="UAP Logo">
+            <div>
+               United Architects of the Philippines
+               <span>
+                  The Integrated and Accredited Professional Organization of Architects
+               </span>
+            </div>
+         </a>
+      </h1>
+      
+      <div class="social-media">
+         <ul>
+            <li><a href="https://www.facebook.com/pages/UAP-Headquarters/927107527329097?fref=ts" target="_blank"><img src="http://united-architects.org/images/icon-social-media-facebook.png" alt="Facebook"></a></li>
+            <li><a href="https://twitter.com/uapofficial" target="_blank"><img src="http://united-architects.org/images/icon-social-media-twitter.png" alt="Twitter"></a></li>
+            <li><a href="https://instagram.com/uapofficial/" target="_blank"><img src="http://united-architects.org/images/icon-social-media-instagram.png" alt="Instagram"></a></li>
+            <li><a href="https://plus.google.com/105851482910527623186/about" target="_blank"><img src="http://united-architects.org/images/icon-social-media-google-plus.png" alt="Google+"></a></li>
+         </ul>
+      </div>
+      
+      <div id="header-profile">
+                     <a href="http://united-architects.org/sign-in">Sign In</a> &nbsp; | &nbsp; <a href="http://united-architects.org/register">Join UAP</a>
+            <div class="clear"></div>
+            <div class="sublinks"><a href="http://united-architects.org/forgot-password" class="profile-sublink">Forgot Password</a></div>
+                  </div>
+      
+      <div class="ahub-wrapper">
+         <a href="http://united-architects.org/architects-hub" class="ahub-link">Architects Hub</a>
+         <!--<a href="http://united-architects.org/architects-hub" class="ahub-link"><img src="http://united-architects.org/images/btn-ahub.png" alt="Architects Hub" /></a>-->
+         <ul>
+            <li><a href="http://united-architects.org/architects-hub">Depot</a></li>
+            <li><a href="http://united-architects.org/architects-hub">eStore</a></li>
+            <li><a href="http://united-architects.org/architects-hub">Ad Guide</a></li>
+            <li><a href="http://united-architects.org/architects-hub">Suggested eBooks</a></li>
+            <li><a href="http://united-architects.org/suggested-apps">Suggested Apps</a></li>
+            <li><a href="http://united-architects.org/jobs">Jobs</a></li>
+            <li><a href="http://united-architects.org/uap-files">Files</a></li>
+         </ul>
+      </div>
+      
+      <div class="clear"></div>
+   </div>
+</div><div id="navigation">
+   <div class="inner">
+      <ul id="nav">
+         <li><a href="http://united-architects.org/">Home</a></li>
+         <li>
+            <a href="http://united-architects.org/about/uap-officers" class="active">About</a>
+            <ul class="selected">
+               <li><a href="http://united-architects.org/about/uap-officers">UAP Officers FY 2015-2016</a></li>
+               <li><a href="http://united-architects.org/about/the-story-of-uap" class="active">The Story of UAP</a></li>
+               <li><a href="http://united-architects.org/about/organizational-structure">Organizational Structure</a></li>
+               <li><a href="http://united-architects.org/about/vision-mission-objectives">Vision, Mission, Objectives</a></li>
+               <li><a href="http://united-architects.org/about/corporate-profile">Corporate Profile</a></li>
+               <li><a href="http://united-architects.org/about/affiliations">Affiliations</a></li>
+               <li><a href="http://united-architects.org/about/awards-and-recognitions">Awards and Recognitions</a></li>
+            </ul>
+         </li>
+         <li><a href="http://united-architects.org/publications">Publications</a></li>
+         <li><a href="http://united-architects.org/events">Events</a></li>
+         <li><a href="http://united-architects.org/areas">Members</a></li>
+         <li>
+            <a href="http://united-architects.org/gallery">Gallery</a>
+            <ul>
+               <li><a href="http://united-architects.org/photos">Photos</a></li>
+               <li><a href="http://united-architects.org/videos">Videos</a></li>
+               <li><a href="http://united-architects.org/activities">Activity Reports</a></li>
+            </ul>
+         </li>
+         <!--<li><a href="jobs">Jobs</a></li>-->
+         <li><a href="http://united-architects.org/contactus">Contact Us</a></li>
+      </ul>
+      <div class="search">
+         <form method="post" action="#">
+            <input type="text" placeholder="Enter keywords"><input type="submit" value="Search">
+         </form>
+      </div>
+      <div class="clear"></div>
+   </div>
+</div>            
+            <div id="body">
+               <div class="inner">
+                  
+                  <div class="leftcol">
+                     
+                     <div id="about" class="section">
+                        <div class="header"><h2>About UAP</h2></div>
+                        <div class="content">
+                           
+                           <h2>The Story of UAP</h2>
+<p>During the Spanish era there were no schools of Architecture in the Philippines. The first Filipino recorded architect was Felix Roxas y Arroyo, born circa 1820 in Manila, studied in Spain and stayed for many years in England and France. Previous to this, a Filipino could aspire to erect an architectural structure through the help of a Maestro de Obras or master builder. The first formal school for master builders was opened only during the last decade of the 19th century. On 14 September 1902, many of the graduates of this school joined the civil engineers and surveyors in the country and founded the first professional organization of architects and allied professionals ~ the Academia de Arquitectura y Aguimensura de Filipinos (AAAF). It maintained direct consultation with the American Institute of Architects (AIA). A year after, its name was changed to Academia de Inginieria, Arquitectura y Agrimensura de Filipinas (AIAAF). In 1904 it founded the first school of Architecture in the Philippines, the Escuela de Ingenieria y Arquitectura, which offered five-year courses in Architecture and Civil Engineering.</p>
+		<p>In 1911, the AIAAF was dissolved when the civil engineers withdrew to form their own professional organization, but not before it has struggled for the passage of an Engineers and Architects Law. In 1921, the Philippine National Assembly Act No. 2985 passed, the first enabling law for the practice of the professions of engineering and architecture, defined the unique and separate identities of the two professions.</p>
+		<p>The profession of Architecture in the Philippines was given its first separate statute on 17 June 1950 with the enactment of Republic Act 545, "An Act to Regulate the Practice of Architecture in the Philippines."</p>
+		<p>From the early 1930's to late 1950's, associations of architects were founded, but only three survived until the early 1970's ~ the Association of Philippine Government Architects (APGA), League of Philippine Architects (LPA), and the Philippine Institute of Architects (PIA). In June 1973, President Ferdinand E. Marcos issued Presidential Decree 223, creating the Professional Regulation Commission (PRC) regulating all professions and accrediting only one organization to represent each profession.</p>
+		<p>The United Architects of the Philippines (UAP) was born on December 12, 1974 out of the noble vision of unifying the three (3) existing architectural associations at that time - the Philippines Institute of Architects (PIA), the League of Philippine Architects (LPA) and the Association of Philippine Government Architects (APGA).  Through the concerted efforts of the officers and members of the three organizations, the vision officially materialized on March 26, 1975, where the UAP was registered with the Philippines' Securities and Exchange Commission (SEC). On May 12, 1975, the UAP was granted Certificate No. 001, the first professional organization to be accredited by the Professional Regulation Commission (PRC). The PRC is the central agency of the Philippine Government charged with the licensing and regulation of professionals and the professions, as well as the Accredited Professional Organizations (APOs).</p>
+		<p>Since its registration, UAP has received many awards, including the highly-acclaimed PRC's Most Outstanding Accredited Professional Organization. To date, it is still the first and only APO to win the award five times in the Award's nineteen-year history. These were in years 2002, 2007 and 2008, 2011 and 2014. The award is presented annually to recognize the achievements, services and commitments of the APO to the profession. UAP bested forty five (45) other professional organizations, through 12 stringent criteria set for the award.</p>
+		<p>The UAP has been instrumental in the passing of Republic Act 9266: The Architect's Law of 2004, effective April 26, 2004. On 22 June 2004, the PRC, through its Board of Architecture, accredited the UAP as the Integrated and Accredited Professional Organization of Architects (IAPOA). The new law granted Filipino architects more definitive rights, benefits and distinction as against other professionals in the construction industry</p>
+		<p>For its volunteer works, UAP was chosen in addressing housing problems, urban degradation, environmental conservation and promotion of volunteerism for socio-economic development; the UAP was a Regional Nominee to the "Search for Outstanding Volunteers" by the Philippine National Service Coordinating Agency (PNVSCA) in its celebration of National Volunteer Month last December 2005. PNVSCA takes the lead in advocating and recognizing the contributions of volunteers to nation-building and international cooperation.</p>
+		<p>In April 2010,  in celebration of the Earth Day, the UAP, through its advocacy group "Green Architecture Movement", was awarded the 2009 Father Neri Satur Award for Environmental Heroism - the only accredited professional organization in the Philippines to receive such a prestigious environmental award.</p>
+		<p>Last November 2010, the UAP has been bestowed the EAROPH 50th Golden Jubilee Award in recognition of its substantial contribution to the advancement of Planning, Development and Management of Human Settlements in the Philippines. The Award was given in celebration of EAROPH's 50th Anniversary and the 2010 Congress in Adelaine, Australia.</p>
+		<p>The UAP has a roster of membership numbering more than 30,000 or 100% of the total registered architects at the Professional Regulation Commission (PRC).  This number is expected to increase with the advent of the automatic membership clause under RA 9266 and the registration of new board passers of the recent PRC licensure examinations.</p> 
+		<p>The UAP encourages all of its members, their ?rms, and foreign and local components to engage in providing pro bono services as part their contributions to the highest aspirations of the architecture profession and the organization in service to society. Through participation in whatever format they may choose, every member of the UAP can support and further the values of the organization in terms of its advocacy for sustainable design and practices, diversity, and  elevation of the stature of the profession of architecture in the eyes of the public.</p>
+		<p>Recently, the UAP has launched a nationwide program dubbed as "Bayanihang Arkitektura" that encourages all members, and chapters to engage in providing pro bono services as part their contributions to the highest aspirations of the architecture profession and the organization in service to society. Under the program, UAP chapters including their members offer their architectural expertise in an advisory capacity free of charge for several socio-civic projects. </p>
+		<p>The UAP has been involved in government projects such as Bayanihang Pampaaralan with the Department of Education, the 200-bed Catarman Provincial Hospital in Northern Samar, the  "Alay sa Ginhawa at Kalusugan" program which aims to provide fully-functional community health centers nationwide, the "Disaster Resilient Shelter Project" with several local government units, "Kapamilya Shower Na!" a Mobile Shower Project, professional services for the design of the medium-rise buildings for the In-City Housing Project along Estero de San Miguel in coordination with Pasig River Rehabilitation Commission,  to name a few.</p>
+<h3>International Affiliations</h3>
+		<p>The UAP is a member of the following international organizations:</p>
+		<ol>
+			<li><b><i>International Union of Architects (UIA)</i></b>, an international organization of 110 institutes of architects worldwide.</li>
+			<li><b><i>Architects Regional Council for Asia (ARCASIA) ,</i></b> a regional organization of 17 institutes of architects in Asia</li>
+			<li><b><i>Eastern Regional Organization for Planning and Human Settlements (EAROPH),</i></b> non-governmental multi-sectoral organization which covers all countries in Asia, Australasia and the Pacific region.</li>
+			<li>APEC Architect Central Monitoring Council</li>
+			<li>ASEAN Architect</li>
+		</ol>
+		<br>
+		<h3>Contact Information</h3>
+		<ul>
+			<li>United Architects of the Philippines</li>
+			<li>Address: UAP Bldg., No. 53 Scout Rallos Street, Diliman, Quezon City</li>
+			<li>Telephone Nos. (632) 4126403 / 4126364 / 4126374 / 4123311 / 4123312</li>
+			<li>Fax No.  (632) 3721796</li>
+			<li>Email Address: uapnational@yahoo.com</li>
+			<li>Websites: www.united-architects.org</li>
+		</ul>
+
+
+
+                           
+                           <!--<p>During the Spanish era there were no schools of Architecture in the Philippines. The first Filipino recorded architect was Felix Roxas y Arroyo, born circa 1820 in Manila, studied in Spain and stayed for many years in England and France. Previous to this, a Filipino could aspire to erect an architectural structure through the help of a Maestro de Obras or master builder. The first formal school for master builders was opened only during the last decade of the 19th century. On 14 September 1902, many of the graduates of this school joined the civil engineers and surveyors in the country and founded the first professional organization of architects and allied professionals ~ the Academia de Arquitectura y Aguimensura de Filipinos (AAAF). It maintained direct consultation with the American Institute of Architects (AIA). A year after, its name was changed to Academia de Inginieria, Arquitectura y Agrimensura de Filipinas (AIAAF). In 1904 it founded the first school of Architecture in the Philippines, the Escuela de Ingenieria y Arquitectura, which offered five-year courses in Architecture and Civil Engineering.</p>
+                           
+                           <p>In 1911, the AIAAF was dissolved when the civil engineers withdrew to form their own professional organization, but not before it has struggled for the passage of an Engineers and Architects Law. In 1921, the Philippine National Assembly Act No. 2985 passed, the first enabling law for the practice of the professions of engineering and architecture, defined the unique and separate identities of the two professions.</p>
+                           
+                           <p>The profession of Architecture in the Philippines was given its first separate statute on 17 June 1950 with the enactment of Republic Act 545, "An Act to Regulate the Practice of Architecture in the Philippines."</p>
+                           
+                           <p>From the early 1930's to late 1950's, associations of architects were founded, but only three survived until the early 1970's ~ the Association of Philippine Government Architects (APGA), League of Philippine Architects (LPA), and the Philippine Institute of Architects (PIA). In June 1973, President Ferdinand E. Marcos issued Presidential Decree 223, creating the Professional Regulation Commission (PRC) regulating all professions and accrediting only one organization to represent each profession.</p>
+                           
+                           <p>The newly integrated organization of architects was called the United Architects of the Philippines (UAP). All 1300 members of the three organizations automatically became members of the UAP and during its first year, 700 members officially registered for active membership.</p>
+                           
+                           <p>On 26 March 1975, the UAP was registered with the Securities and Exchange Commission and on 12 May 1975, the PRC issued Certificate No. 001 to the UAP as the duly accredited professional organization of architects in the Philippines. The organization has been participating in the activities of local government units, in civic and in related professional fields. The UAP received many professional awards including the highly acclaimed Excellence Award given by the Government of the Republic of the Philippines and the Most Outstanding Professional Organization of the Year awarded by the PRC in 2002.</p>
+                           
+                           <p>The UAP has been instrumental in the passing of Republic Act 9266: The Architect's Law of 2004, effective April 26, 2004. On 22 June 2004, the PRC, through its Board of Architecture, accredited the UAP as the Integrated and Accredited Professional Organization of Architects (IAPOA). The new law granted Filipino architects more definitive rights, benefits and distinction as against other professionals in the construction industry</p>
+                           
+                           <p>The United Architects of the Philippines (UAP) was born on December 12, 1974 out of the noble vision of unifying the three (3) existing architectural associations at that time - the Philippine Institute of Architects (PIA), the League of Philippine Architects (LPA) and the Association of Philippine Government Architects (APGA). Through the concerted efforts of the officers and members of the three organizations, the vision officially materialized on March 26, 1975, where the UAP was registered with the Philippines' Securities and Exchange Commission (SEC). On May 12, 1975, the UAP was granted Certificate No. 001, the first professional organization to be accredited by the Professional Regulation Commission (PRC). The PRC is the central agency of the Philippine Government charged with the licensing and regulation of professionals and the professions, as well as the Accredited Professional Organizations (APOs).</p>
+                           
+                           <p>Since its registration, UAP has received many awards, including the highly-acclaimed PRC's Most Outstanding Accredited Professional Organization. To date, it is still the first and only APO to win the award four times in the Award's eighteen-year history. These were in years 2002, 2007 and 2008 and this year 2011. The award is presented annually to recognize the achievements, services and commitments of the APO to the profession. UAP bested forty two (42) other professional organizations, through 12 stringent criteria set for the award.</p>
+                           
+                           <p>For its volunteer works, UAP was chosen in addressing housing problems, urban degradation, environmental conservation and promotion of volunteerism for socio-economic development; the UAP was a Regional Nominee to the "Search for Outstanding Volunteers" by the Philippine National Service Coordinating Agency (PNVSCA) in its celebration of National Volunteer Month last December 2005. PNVSCA takes the lead in advocating and recognizing the contributions of volunteers to nation-building and international cooperation.</p>
+                           
+                           <p>Last April 2009, in celebration of the Earth Day, the UAP, through its advocacy group "Green Architecture Movement", was awarded the 2009 Father Neri Satur Award for Environmental Heroism - the only accredited professional organization in the Philippines to receive such a prestigious environmental award.</p>
+                           
+                           <p>last November 2010, UAP received its First International Award ~ in Adelaide, Australia, the EAROPH 50th Golden Jubilee Award in recognition of the organization's substantial contribution to the advancement of Planning, Development and Management of Human Settlements in the Philippines.</p>-->
+                           
+                        </div>
+                     </div>
+                     
+                  </div>
+                  <div class="home rightcol">
+                        <div class="clear"></div>
+   <ul class="sub-nav">
+      <li><a href="http://united-architects.org/about/uap-officers">UAP Officers FY 2015-2016</a></li>
+      <li><a href="http://united-architects.org/about/the-story-of-uap" class="active">The Story of UAP</a></li>
+      <li><a href="http://united-architects.org/about/organizational-structure">Organizational Structure</a></li>
+      <li><a href="http://united-architects.org/about/vision-mission-objectives">Vision, Mission, Objectives</a></li>
+      <li><a href="http://united-architects.org/about/corporate-profile">Corporate Profile</a></li>
+      <li><a href="http://united-architects.org/about/affiliations">Affiliations</a></li>
+      <li><a href="http://united-architects.org/about/awards-and-recognitions">Awards and Recognitions</a></li>
+   </ul>
+   
+<div class="widget videos">
+   <div class="header">Videos</div>
+   <div class="content">
+      <a href="http://united-architects.org/video/1/world-day-of-architecture-2014" class="thumb"><img src="http://img.youtube.com/vi/qKwFsb8Di3Y/0.jpg" alt="World Day of Architecture 2014"><div class="caption">World Day of Architecture 2014</div></a><a href="http://united-architects.org/video/2/uap-joint-area-assembly-2015" class="thumb"><img src="http://img.youtube.com/vi/LUZl_OgipnY/0.jpg" alt="UAP Joint Area Assembly 2015"><div class="caption">UAP Joint Area Assembly 2015</div></a><a href="http://united-architects.org/video/3/uap-2015-joint-area-assembly-how-to-get-there" class="thumb"><img src="http://img.youtube.com/vi/mzDBXJVsg0k/0.jpg" alt="UAP 2015 Joint Area Assembly: How to Get There?"><div class="caption">UAP 2015 Joint Area Assembly: How to Get There?</div></a>   </div>
+</div>
+
+<div class="widget photos">
+   <div class="header">Photos</div>
+   <a href="http://united-architects.org/album/6/ra-9266-amendments" class="content">
+      <img src="http://united-architects.org/images/album-cover/ra-9266-amendments.jpg" alt="RA 9266 - Amendments">
+      <div class="caption">RA 9266 - Amendments</div>
+   </a>
+</div>
+
+<div class="widget publications">
+   <div class="header">Publications</div>
+   <div class="content">
+      <img src="http://united-architects.org/images/publications/11.jpg" alt="UAP National Directory 2014 - 2015"><div class="caption">UAP National Directory 2014 - 2015</div>   </div>
+</div>
+
+<div class="ahub-wrapper">
+   <a href="http://united-architects.org/architects-hub" class="ahub-link">Architects Hub</a>
+   <ul>
+      <li><a href="http://united-architects.org/architects-hub">Depot</a></li>
+      <li><a href="http://united-architects.org/architects-hub">eStore</a></li>
+      <li><a href="http://united-architects.org/architects-hub">Ad Guide</a></li>
+      <li><a href="http://united-architects.org/architects-hub">Suggested eBooks</a></li>
+      <li><a href="http://united-architects.org/suggested-apps">Suggested Apps</a></li>
+      <li><a href="http://united-architects.org/jobs">Jobs</a></li>
+      <li><a href="http://united-architects.org/uap-files">Files</a></li>
+   </ul>
+</div>                  </div>
+                  
+                  <div class="clear"></div>
+                  <div id="partners">
+   <div class="header">
+      <div class="context"><h2>Partners</h2></div>
+      <div class="clear"></div>
+   </div>
+   <div class="content">
+      <div class="partner"><a href="http://www.arcasia.org/" target="_blank"><img src="http://united-architects.org/images/partners/partner-1.jpg" alt="0"></a></div><div class="partner"><a href="http://www.uia.archi/" target="_blank"><img src="http://united-architects.org/images/partners/partner-2.jpg" alt="1"></a></div><div class="partner"><a href="http://www.earoph.info/" target="_blank"><img src="http://united-architects.org/images/partners/partner-3.jpg" alt="2"></a></div><div class="partner"><a href="http://apec.org/" target="_blank"><img src="http://united-architects.org/images/partners/partner-4.jpg" alt="3"></a></div><div class="partner"><a href="http://www.prc.gov.ph/" target="_blank"><img src="http://united-architects.org/images/partners/partner-5.jpg" alt="4"></a></div><div class="partner"><a href="http://www.architectureboard.ph" target="_blank"><img src="http://united-architects.org/images/partners/partner-6.jpg" alt="5"></a></div><div class="partner"><a href="http://www.ncca.gov.ph/" target="_blank"><img src="http://united-architects.org/images/partners/partner-7.jpg" alt="6"></a></div><div class="partner"><a href="http://www.dpwh.gov.ph" target="_blank"><img src="http://united-architects.org/images/partners/partner-8.jpg" alt="7"></a></div>   </div>
+</div>                  <div class="clear"></div>
+               </div>
+            </div>
+            
+            <div id="footer">
+   <div class="inner">
+      
+      <!--<div id="underconstruction">
+         "We apologize for the inconvenience, the site is under Beta phase and being Optimized for a better user experience. Thank you!"
+      </div>-->
+      
+      <!--<div class="box newmem">
+         <div class="header">New Member</div>
+         <div class="content">
+            Register to login
+            <div class="clear"></div>
+            <a href="register.php">Register</a>
+            <div class="clear"></div>
+            <br />Already have an account?
+            <div class="clear"></div>
+            <a href="login.php">Login</a>
+         </div>
+      </div>
+      
+      <div class="box latest">
+         <div class="header">Latest</div>
+         <div class="content">
+            <a href="#">Irish Architecture</a>
+            <a href="#">Architecture Book</a>
+            <a href="#">Backstage Architecture</a>
+            <a href="#">Charnley Summer Cottage Complex</a>
+         </div>
+      </div>-->
+      
+      <!--<div class="box sitemap">
+         <div class="header">Links</div>
+         <div class="content">
+            <a href="http://united-architects.org/about-uap-officers.php">About UAP</a>
+            <a href="http://united-architects.org/publications.php">Publications</a>
+            <a href="http://united-architects.org/events.php">Events</a>
+            <a href="http://united-architects.org/areas.php">Members</a>
+            <a href="http://united-architects.org/gallery.php">Gallery</a>
+            <!--<a href="#">Architects' Hub</a>-->
+            <!--<a href="http://united-architects.org/contactus.php">Contact Us</a>
+         </div>
+      </div>-->
+      
+      <div class="box social">
+         <div class="header">Social Media Links</div>
+         <div class="content">
+            <a href="#">
+               <span class="ti-facebook"></span>
+               LIKE US
+            </a>
+            <a href="#">
+               <span class="ti-twitter-alt"></span>
+               FOLLOW
+            </a>
+            <a href="#">
+               <span class="ti-instagram"></span>
+               CAPTURE
+            </a>
+            <a href="#">
+               <span class="ti-google"></span>
+               CONNECT
+            </a>
+         </div>
+      </div>
+      
+      <div class="clear"></div>
+      
+      <div class="main">
+         
+         United Architects of the Philippines ™ 2015
+         
+         <ul class="footer-nav">
+            <li><a href="http://united-architects.org/about-uap-officers.php">About UAP</a></li>
+            <li><a href="http://united-architects.org/publications.php">Publications</a></li>
+            <li><a href="http://united-architects.org/events.php">Events</a></li>
+            <li><a href="http://united-architects.org/areas.php">Members</a></li>
+            <li><a href="http://united-architects.org/gallery.php">Gallery</a></li>
+            <!--<li><a href="#">Architects' Hub</a></li>-->
+            <li><a href="http://united-architects.org/contactus.php">Contact Us</a></li>
+         </ul>
+         
+      </div>
+      
+      <div class="clear"></div>
+      
+   </div>
+</div>
+            
+         </div>
+      </div>
+      
+   
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>

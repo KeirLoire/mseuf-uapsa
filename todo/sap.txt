@@ -1,0 +1,306 @@
+<html><head>
+      <title>UAP Events</title>
+      <!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="http://united-architects.org/support/favicon.ico">
+
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/themify-icons.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/lightbox.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/jquery-te.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/main.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/main-responsive.css">
+
+<!-- JS -->
+<script type="text/javascript" src="http://united-architects.org/js/jquery.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/simplemodal.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/lightbox.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/jquery-te.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/main.js"></script>      <script type="text/javascript">
+         $(document).ready(function() {
+            playSlider();
+         });
+      </script>
+   </head>
+   <body>
+      
+      <div id="main">
+         <div class="inner">
+            
+            <div id="header">
+   <div class="inner">
+      <h1 id="logo">
+         <a href="http://united-architects.org/index.php">
+            <img src="http://united-architects.org/images/logo-uap.jpg" alt="UAP Logo">
+            <div>
+               United Architects of the Philippines
+               <span>
+                  The Integrated and Accredited Professional Organization of Architects
+               </span>
+            </div>
+         </a>
+      </h1>
+      
+      <div class="social-media">
+         <ul>
+            <li><a href="https://www.facebook.com/pages/UAP-Headquarters/927107527329097?fref=ts" target="_blank"><img src="http://united-architects.org/images/icon-social-media-facebook.png" alt="Facebook"></a></li>
+            <li><a href="https://twitter.com/uapofficial" target="_blank"><img src="http://united-architects.org/images/icon-social-media-twitter.png" alt="Twitter"></a></li>
+            <li><a href="https://instagram.com/uapofficial/" target="_blank"><img src="http://united-architects.org/images/icon-social-media-instagram.png" alt="Instagram"></a></li>
+            <li><a href="https://plus.google.com/105851482910527623186/about" target="_blank"><img src="http://united-architects.org/images/icon-social-media-google-plus.png" alt="Google+"></a></li>
+         </ul>
+      </div>
+      
+      <div id="header-profile">
+                     <a href="http://united-architects.org/sign-in">Sign In</a> &nbsp; | &nbsp; <a href="http://united-architects.org/register">Join UAP</a>
+            <div class="clear"></div>
+            <div class="sublinks"><a href="http://united-architects.org/forgot-password" class="profile-sublink">Forgot Password</a></div>
+                  </div>
+      
+      <div class="ahub-wrapper">
+         <a href="http://united-architects.org/architects-hub" class="ahub-link">Architects Hub</a>
+         <!--<a href="http://united-architects.org/architects-hub" class="ahub-link"><img src="http://united-architects.org/images/btn-ahub.png" alt="Architects Hub" /></a>-->
+         <ul>
+            <li><a href="http://united-architects.org/architects-hub">Depot</a></li>
+            <li><a href="http://united-architects.org/architects-hub">eStore</a></li>
+            <li><a href="http://united-architects.org/architects-hub">Ad Guide</a></li>
+            <li><a href="http://united-architects.org/architects-hub">Suggested eBooks</a></li>
+            <li><a href="http://united-architects.org/suggested-apps">Suggested Apps</a></li>
+            <li><a href="http://united-architects.org/jobs">Jobs</a></li>
+            <li><a href="http://united-architects.org/uap-files">Files</a></li>
+         </ul>
+      </div>
+      
+      <div class="clear"></div>
+   </div>
+</div><div id="navigation">
+   <div class="inner">
+      <ul id="nav">
+         <li><a href="http://united-architects.org/">Home</a></li>
+         <li>
+            <a href="http://united-architects.org/about/uap-officers">About</a>
+            <ul>
+               <li><a href="http://united-architects.org/about/uap-officers">UAP Officers FY 2015-2016</a></li>
+               <li><a href="http://united-architects.org/about/the-story-of-uap">The Story of UAP</a></li>
+               <li><a href="http://united-architects.org/about/organizational-structure">Organizational Structure</a></li>
+               <li><a href="http://united-architects.org/about/vision-mission-objectives">Vision, Mission, Objectives</a></li>
+               <li><a href="http://united-architects.org/about/corporate-profile">Corporate Profile</a></li>
+               <li><a href="http://united-architects.org/about/affiliations">Affiliations</a></li>
+               <li><a href="http://united-architects.org/about/awards-and-recognitions">Awards and Recognitions</a></li>
+            </ul>
+         </li>
+         <li><a href="http://united-architects.org/publications">Publications</a></li>
+         <li><a href="http://united-architects.org/events" class="active">Events</a></li>
+         <li><a href="http://united-architects.org/areas">Members</a></li>
+         <li>
+            <a href="http://united-architects.org/gallery">Gallery</a>
+            <ul>
+               <li><a href="http://united-architects.org/photos">Photos</a></li>
+               <li><a href="http://united-architects.org/videos">Videos</a></li>
+               <li><a href="http://united-architects.org/activities">Activity Reports</a></li>
+            </ul>
+         </li>
+         <!--<li><a href="jobs">Jobs</a></li>-->
+         <li><a href="http://united-architects.org/contactus">Contact Us</a></li>
+      </ul>
+      <div class="search">
+         <form method="post" action="#">
+            <input type="text" placeholder="Enter keywords"><input type="submit" value="Search">
+         </form>
+      </div>
+      <div class="clear"></div>
+   </div>
+</div>            
+            <div id="banner-holder">
+               <div class="inner">
+                  <div id="banner" style="height: 334.375px;"><ul id="slider-nav"><li id="n1" onclick="selectSlide(1)" class="normal"></li><li id="n2" onclick="selectSlide(2)" class="normal"></li><li id="n3" onclick="selectSlide(3)" class="normal selected"></li><li id="n4" onclick="selectSlide(4)" class="normal"></li></ul>
+   <ul id="slider" style="width: 4280px; left: -2140px;">
+      <li class="slide" style="height: 334.375px; width: 1070px;"><img src="http://united-architects.org/images/banners/20151126-nawlogo.jpg" alt="NATCON42 Logo Design Contest"></li>      
+      <li class="slide" style="height: 334.375px; width: 1070px;"><img src="http://united-architects.org/images/banners/20151126-naw-diliman.jpg" alt="World's Architecture Day"></li>
+      <li class="slide" style="height: 334.375px; width: 1070px;"><img src="http://united-architects.org/images/banners/20151126-naw-national-artist.jpg" alt="Paghugpong Bonding Together Towards Higher Ground "></li>
+      <li class="slide" style="height: 334.375px; width: 1070px;"><img src="http://united-architects.org/images/banners/20150921-conex.jpg" alt="Convetion Exhibit"></li>
+      <!--<li class="slide"><img src="http://united-architects.org/images/banners/20151126-naw-balangkasan.jpg" alt="National Architecture Week 2015" /></li>-->
+      <!--<li class="slide"><img src="http://united-architects.org/images/banners/20151124-natcon42.jpg" alt="NATCON42 Logo Design Contest" /></li>-->
+      <!--<li class="slide"><img src="http://united-architects.org/images/banners/20151124-naw.jpg" alt="National Architecture Week 2015" /></li>-->
+      <!--<li class="slide"><img src="http://united-architects.org/images/banners/20150921-world-architecture-day.jpg" alt="World's Architecture Day" /></li>-->
+      <!--<li class="slide"><img src="http://united-architects.org/images/banners/20150921-paghugpong.jpg" alt="Paghugpong Bonding Together Towards Higher Ground " /></li>-->
+      <!--<li class="slide"><img src="images/banners/20150812-green.jpg" alt="Green" /></li>-->
+      <!--<li class="slide"><img src="images/banners/20150812-hospitality.jpg" alt="Hospitality" /></li>-->
+      <!--<li class="slide"><img src="images/banners/20150812-towards-quality.jpg" alt="Towards Quality" /></li>-->
+      <!--<li class="slide"><img src="images/banners/banner-the-inaugural.jpg" alt="The Inaugural" /></li>
+      <li class="slide"><img src="images/banners/40th-founding-anniversary.jpg" alt="40th-founding-anniversary.jpg" /></li>-->
+   	<!--<li class="slide"><img src="images/banners/conex.jpg" alt="conex.jpg" /></li>-->
+   	<!--<li class="slide"><a href="publications"><img src="images/banners/empower-equip-enjoin.jpg" alt="empower-equip-enjoin.jpg" /></a></li>-->
+      <!--<li class="slide"><img src="images/banners/empowering-architects-towards-asean-integration.jpg" alt="empowering-architects-towards-asean-integration.jpg" /></li>-->
+      <!--<li class="slide"><img src="images/banners/the-leadership-summit-20150124.jpg" alt="the-leadership-summit-20150124.jpg" /></li>-->
+      <!--<li class="slide"><img src="images/banners/national-architecture-week-201412.jpg" alt="national-architecture-week-201412.jpg" /></li>-->
+      <!--<li class="slide"><img src="images/banners/filipino-architects-at-the-forefront-of-asean-2015.jpg" alt="filipino-architects-at-the-forefront-of-asean-2015.jpg" /></li>-->
+      <!--<li class="slide"><img src="images/banners/world-day-of-architecture-2014.jpg" alt="world-day-of-architecture-2014.jpg" /></li>-->
+   </ul>
+</div>               </div>
+            </div>
+            
+            <div id="body">
+               <div class="inner">
+                  
+                  <div class="clear"></div>
+                  
+                  <div class="home leftcol">
+                     
+                     <div class="section">
+                        <div class="header"><h2>Events</h2></div>
+                        <div class="content">
+                           
+                           <div class="article"><div class="photo"><img src="http://united-architects.org/e/images/convention-exhibit.jpg" alt=""></div><div class="details"><div class="title"><a href="http://united-architects.org/event/7/convention-exhibit">CONEX 2016</a></div><div class="date">April 21, 2016 - April 23, 2016</div><div class="desc">SMX Convention Center, SM Mall of Asia Complex, Pasay City, Manila</div><div class="clear"></div><a href="http://united-architects.org/event/7/convention-exhibit" class="readmore">Read More</a></div><div class="clear"></div></div>                           <h2>Past Events</h2>
+                           <hr>
+                           <div class="article"><div class="photo"><img src="http://united-architects.org/e/images/paghugpong-bonding-together-towards-higher-grounds.jpg" alt=""></div><div class="details"><div class="title"><a href="http://united-architects.org/event/8/paghugpong-bonding-together-towards-higher-grounds">Joint Area Assembly</a></div><div class="date">October 23, 2015 - October 24, 2015</div><div class="desc">Paghugpong Bonding Together Towards Higher Grounds</div><a href="http://www.uapjointareaassembly2015.com/index.html" target="_blank">Visit http://www.uapjointareaassembly2015.com/index.html</a><div class="clear"></div><a href="http://united-architects.org/event/8/paghugpong-bonding-together-towards-higher-grounds" class="readmore">Read More</a></div><div class="clear"></div></div><div class="article"><div class="photo"><img src="http://united-architects.org/e/images/2015-world-architecture-day.jpg" alt=""></div><div class="details"><div class="title"><a href="http://united-architects.org/event/6/2015-world-architecture-day">UAP to Celebrate World Day of Architecture 2015
+</a></div><div class="date">October 5, 2015</div><div class="desc">Theme:  Architecture, Building, Climate</div><div class="clear"></div><a href="http://united-architects.org/event/6/2015-world-architecture-day" class="readmore">Read More</a></div><div class="clear"></div></div>                           
+                           <div class="clear"></div>
+                        </div>
+                     </div>
+                     
+                  </div>
+                  <div class="home rightcol">
+                     
+<div class="widget videos">
+   <div class="header">Videos</div>
+   <div class="content">
+      <a href="http://united-architects.org/video/1/world-day-of-architecture-2014" class="thumb"><img src="http://img.youtube.com/vi/qKwFsb8Di3Y/0.jpg" alt="World Day of Architecture 2014"><div class="caption">World Day of Architecture 2014</div></a><a href="http://united-architects.org/video/2/uap-joint-area-assembly-2015" class="thumb"><img src="http://img.youtube.com/vi/LUZl_OgipnY/0.jpg" alt="UAP Joint Area Assembly 2015"><div class="caption">UAP Joint Area Assembly 2015</div></a><a href="http://united-architects.org/video/3/uap-2015-joint-area-assembly-how-to-get-there" class="thumb"><img src="http://img.youtube.com/vi/mzDBXJVsg0k/0.jpg" alt="UAP 2015 Joint Area Assembly: How to Get There?"><div class="caption">UAP 2015 Joint Area Assembly: How to Get There?</div></a>   </div>
+</div>
+
+<div class="widget photos">
+   <div class="header">Photos</div>
+   <a href="http://united-architects.org/album/8/district-a5-induction-fy-2014-2015" class="content">
+      <img src="http://united-architects.org/images/album-cover/district-a5-induction-fy-2014-2015.jpg" alt="District A5 Induction">
+      <div class="caption">District A5 Induction</div>
+   </a>
+</div>
+
+<div class="widget publications">
+   <div class="header">Publications</div>
+   <div class="content">
+      <img src="http://united-architects.org/images/publications/11.jpg" alt="UAP National Directory 2014 - 2015"><div class="caption">UAP National Directory 2014 - 2015</div>   </div>
+</div>
+
+<div class="ahub-wrapper">
+   <a href="http://united-architects.org/architects-hub" class="ahub-link">Architects Hub</a>
+   <ul>
+      <li><a href="http://united-architects.org/architects-hub">Depot</a></li>
+      <li><a href="http://united-architects.org/architects-hub">eStore</a></li>
+      <li><a href="http://united-architects.org/architects-hub">Ad Guide</a></li>
+      <li><a href="http://united-architects.org/architects-hub">Suggested eBooks</a></li>
+      <li><a href="http://united-architects.org/suggested-apps">Suggested Apps</a></li>
+      <li><a href="http://united-architects.org/jobs">Jobs</a></li>
+      <li><a href="http://united-architects.org/uap-files">Files</a></li>
+   </ul>
+</div>                  </div>
+                  
+                  <div class="clear"></div>
+                  <div id="partners">
+   <div class="header">
+      <div class="context"><h2>Partners</h2></div>
+      <div class="clear"></div>
+   </div>
+   <div class="content">
+      <div class="partner"><a href="http://www.arcasia.org/" target="_blank"><img src="http://united-architects.org/images/partners/partner-1.jpg" alt="0"></a></div><div class="partner"><a href="http://www.uia.archi/" target="_blank"><img src="http://united-architects.org/images/partners/partner-2.jpg" alt="1"></a></div><div class="partner"><a href="http://www.earoph.info/" target="_blank"><img src="http://united-architects.org/images/partners/partner-3.jpg" alt="2"></a></div><div class="partner"><a href="http://apec.org/" target="_blank"><img src="http://united-architects.org/images/partners/partner-4.jpg" alt="3"></a></div><div class="partner"><a href="http://www.prc.gov.ph/" target="_blank"><img src="http://united-architects.org/images/partners/partner-5.jpg" alt="4"></a></div><div class="partner"><a href="http://www.architectureboard.ph" target="_blank"><img src="http://united-architects.org/images/partners/partner-6.jpg" alt="5"></a></div><div class="partner"><a href="http://www.ncca.gov.ph/" target="_blank"><img src="http://united-architects.org/images/partners/partner-7.jpg" alt="6"></a></div><div class="partner"><a href="http://www.dpwh.gov.ph" target="_blank"><img src="http://united-architects.org/images/partners/partner-8.jpg" alt="7"></a></div>   </div>
+</div>                  <div class="clear"></div>
+               </div>
+            </div>
+            
+            <div id="footer">
+   <div class="inner">
+      
+      <!--<div id="underconstruction">
+         "We apologize for the inconvenience, the site is under Beta phase and being Optimized for a better user experience. Thank you!"
+      </div>-->
+      
+      <!--<div class="box newmem">
+         <div class="header">New Member</div>
+         <div class="content">
+            Register to login
+            <div class="clear"></div>
+            <a href="register.php">Register</a>
+            <div class="clear"></div>
+            <br />Already have an account?
+            <div class="clear"></div>
+            <a href="login.php">Login</a>
+         </div>
+      </div>
+      
+      <div class="box latest">
+         <div class="header">Latest</div>
+         <div class="content">
+            <a href="#">Irish Architecture</a>
+            <a href="#">Architecture Book</a>
+            <a href="#">Backstage Architecture</a>
+            <a href="#">Charnley Summer Cottage Complex</a>
+         </div>
+      </div>-->
+      
+      <!--<div class="box sitemap">
+         <div class="header">Links</div>
+         <div class="content">
+            <a href="http://united-architects.org/about-uap-officers.php">About UAP</a>
+            <a href="http://united-architects.org/publications.php">Publications</a>
+            <a href="http://united-architects.org/events.php">Events</a>
+            <a href="http://united-architects.org/areas.php">Members</a>
+            <a href="http://united-architects.org/gallery.php">Gallery</a>
+            <!--<a href="#">Architects' Hub</a>-->
+            <!--<a href="http://united-architects.org/contactus.php">Contact Us</a>
+         </div>
+      </div>-->
+      
+      <div class="box social">
+         <div class="header">Social Media Links</div>
+         <div class="content">
+            <a href="#">
+               <span class="ti-facebook"></span>
+               LIKE US
+            </a>
+            <a href="#">
+               <span class="ti-twitter-alt"></span>
+               FOLLOW
+            </a>
+            <a href="#">
+               <span class="ti-instagram"></span>
+               CAPTURE
+            </a>
+            <a href="#">
+               <span class="ti-google"></span>
+               CONNECT
+            </a>
+         </div>
+      </div>
+      
+      <div class="clear"></div>
+      
+      <div class="main">
+         
+         United Architects of the Philippines ™ 2015
+         
+         <ul class="footer-nav">
+            <li><a href="http://united-architects.org/about-uap-officers.php">About UAP</a></li>
+            <li><a href="http://united-architects.org/publications.php">Publications</a></li>
+            <li><a href="http://united-architects.org/events.php">Events</a></li>
+            <li><a href="http://united-architects.org/areas.php">Members</a></li>
+            <li><a href="http://united-architects.org/gallery.php">Gallery</a></li>
+            <!--<li><a href="#">Architects' Hub</a></li>-->
+            <li><a href="http://united-architects.org/contactus.php">Contact Us</a></li>
+         </ul>
+         
+      </div>
+      
+      <div class="clear"></div>
+      
+   </div>
+</div>
+            
+         </div>
+      </div>
+      
+   
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>

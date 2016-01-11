@@ -1,0 +1,278 @@
+<html><head>
+      <title>Joint Area Assembly | UAP Gallery</title>
+      <!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="http://united-architects.org/support/favicon.ico">
+
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/themify-icons.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/lightbox.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/jquery-te.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/main.css">
+<link rel="stylesheet" type="text/css" href="http://united-architects.org/css/main-responsive.css">
+
+<!-- JS -->
+<script type="text/javascript" src="http://united-architects.org/js/jquery.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/simplemodal.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/lightbox.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/jquery-te.js"></script>
+<script type="text/javascript" src="http://united-architects.org/js/main.js"></script>   </head>
+   <body>
+      
+      <div id="main">
+         <div class="inner">
+            
+            <div id="header">
+   <div class="inner">
+      <h1 id="logo">
+         <a href="http://united-architects.org/index.php">
+            <img src="http://united-architects.org/images/logo-uap.jpg" alt="UAP Logo">
+            <div>
+               United Architects of the Philippines
+               <span>
+                  The Integrated and Accredited Professional Organization of Architects
+               </span>
+            </div>
+         </a>
+      </h1>
+      
+      <div class="social-media">
+         <ul>
+            <li><a href="https://www.facebook.com/pages/UAP-Headquarters/927107527329097?fref=ts" target="_blank"><img src="http://united-architects.org/images/icon-social-media-facebook.png" alt="Facebook"></a></li>
+            <li><a href="https://twitter.com/uapofficial" target="_blank"><img src="http://united-architects.org/images/icon-social-media-twitter.png" alt="Twitter"></a></li>
+            <li><a href="https://instagram.com/uapofficial/" target="_blank"><img src="http://united-architects.org/images/icon-social-media-instagram.png" alt="Instagram"></a></li>
+            <li><a href="https://plus.google.com/105851482910527623186/about" target="_blank"><img src="http://united-architects.org/images/icon-social-media-google-plus.png" alt="Google+"></a></li>
+         </ul>
+      </div>
+      
+      <div id="header-profile">
+                     <a href="http://united-architects.org/sign-in">Sign In</a> &nbsp; | &nbsp; <a href="http://united-architects.org/register">Join UAP</a>
+            <div class="clear"></div>
+            <div class="sublinks"><a href="http://united-architects.org/forgot-password" class="profile-sublink">Forgot Password</a></div>
+                  </div>
+      
+      <div class="ahub-wrapper">
+         <a href="http://united-architects.org/architects-hub" class="ahub-link">Architects Hub</a>
+         <!--<a href="http://united-architects.org/architects-hub" class="ahub-link"><img src="http://united-architects.org/images/btn-ahub.png" alt="Architects Hub" /></a>-->
+         <ul>
+            <li><a href="http://united-architects.org/architects-hub">Depot</a></li>
+            <li><a href="http://united-architects.org/architects-hub">eStore</a></li>
+            <li><a href="http://united-architects.org/architects-hub">Ad Guide</a></li>
+            <li><a href="http://united-architects.org/architects-hub">Suggested eBooks</a></li>
+            <li><a href="http://united-architects.org/suggested-apps">Suggested Apps</a></li>
+            <li><a href="http://united-architects.org/jobs">Jobs</a></li>
+            <li><a href="http://united-architects.org/uap-files">Files</a></li>
+         </ul>
+      </div>
+      
+      <div class="clear"></div>
+   </div>
+</div><div id="navigation">
+   <div class="inner">
+      <ul id="nav">
+         <li><a href="http://united-architects.org/">Home</a></li>
+         <li>
+            <a href="http://united-architects.org/about/uap-officers">About</a>
+            <ul>
+               <li><a href="http://united-architects.org/about/uap-officers">UAP Officers FY 2015-2016</a></li>
+               <li><a href="http://united-architects.org/about/the-story-of-uap">The Story of UAP</a></li>
+               <li><a href="http://united-architects.org/about/organizational-structure">Organizational Structure</a></li>
+               <li><a href="http://united-architects.org/about/vision-mission-objectives">Vision, Mission, Objectives</a></li>
+               <li><a href="http://united-architects.org/about/corporate-profile">Corporate Profile</a></li>
+               <li><a href="http://united-architects.org/about/affiliations">Affiliations</a></li>
+               <li><a href="http://united-architects.org/about/awards-and-recognitions">Awards and Recognitions</a></li>
+            </ul>
+         </li>
+         <li><a href="http://united-architects.org/publications">Publications</a></li>
+         <li><a href="http://united-architects.org/events">Events</a></li>
+         <li><a href="http://united-architects.org/areas">Members</a></li>
+         <li>
+            <a href="http://united-architects.org/gallery" class="active">Gallery</a>
+            <ul class="selected">
+               <li><a href="http://united-architects.org/photos">Photos</a></li>
+               <li><a href="http://united-architects.org/videos">Videos</a></li>
+               <li><a href="http://united-architects.org/activities">Activity Reports</a></li>
+            </ul>
+         </li>
+         <!--<li><a href="jobs">Jobs</a></li>-->
+         <li><a href="http://united-architects.org/contactus">Contact Us</a></li>
+      </ul>
+      <div class="search">
+         <form method="post" action="#">
+            <input type="text" placeholder="Enter keywords"><input type="submit" value="Search">
+         </form>
+      </div>
+      <div class="clear"></div>
+   </div>
+</div>            
+            <div id="body">
+               <div class="inner">
+                  
+                  <div class="clear"></div>
+                  
+                  <div class="home leftcol">
+                  
+                     <div id="photos" class="section">
+                        <div class="header"><h2>Joint Area Assembly</h2></div>
+                        <div class="content photos">
+
+                           <a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (1).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (1).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (4).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (4).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (10).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (10).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (14).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (14).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (9).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (9).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (6).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (6).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (12).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (12).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (3).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (3).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (11).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (11).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (15).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (15).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (7).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (7).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (8).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (8).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (17).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (17).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (16).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (16).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (13).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (13).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (2).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (2).png"></div></a><a href="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (5).png" data-lightbox="album"><div><img src="http://united-architects.org/images/album-photos/joint-area-assembly/uapjaa (5).png"></div></a>                           
+                           <div class="clear"></div>
+                        </div>
+                     </div>
+                     
+                     <div id="other-albums" class="section">
+                        <div class="header"><h2>Other Albums</h2></div>
+                        <div class="content photos">
+                           <br>
+                           <a href="http://united-architects.org/album/10/recognition-night" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/recognition-night.jpg" alt="Recognition Night"></td></tr></tbody></table></div><div class="title">Recognition Night</div></div></a><a href="http://united-architects.org/album/9/the-inaugural" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/the-inaugural.jpg" alt="The Inaugural"></td></tr></tbody></table></div><div class="title">The Inaugural</div></div></a><a href="http://united-architects.org/album/8/district-a5-induction-fy-2014-2015" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/district-a5-induction-fy-2014-2015.jpg" alt="District A5 Induction"></td></tr></tbody></table></div><div class="title">District A5 Induction</div></div></a><a href="http://united-architects.org/album/7/angeles-chapter-induction-fy-2014-2015" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/angeles-chapter-induction-fy-2014-2015.jpg" alt="Angeles Chapter Induction FY 2014-2015"></td></tr></tbody></table></div><div class="title">Angeles Chapter Induction FY 2014-2015</div></div></a><a href="http://united-architects.org/album/6/ra-9266-amendments" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/ra-9266-amendments.jpg" alt="RA 9266 - Amendments"></td></tr></tbody></table></div><div class="title">RA 9266 - Amendments</div></div></a><a href="http://united-architects.org/album/5/oathtaking-of-uap-officers-fy-2014" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/oathtaking-of-uap-officers-fy-2014.jpg" alt="Oathtaking of UAP Officers FY 2014"></td></tr></tbody></table></div><div class="title">Oathtaking of UAP Officers FY 2014</div></div></a><a href="http://united-architects.org/album/4/south-triangle-induction" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/south-triangle-induction.jpg" alt="South Triangle Induction"></td></tr></tbody></table></div><div class="title">South Triangle Induction</div></div></a><a href="http://united-architects.org/album/3/world-day-of-architecture-2014" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/world-day-of-architecture-2014.jpg" alt="World Day of Architecture 2014"></td></tr></tbody></table></div><div class="title">World Day of Architecture 2014</div></div></a><a href="http://united-architects.org/album/2/turnover-2014" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/turnover-2014.jpg" alt="Turnover 2014"></td></tr></tbody></table></div><div class="title">Turnover 2014</div></div></a><a href="http://united-architects.org/album/1/general-membership-meeting-2014" class="album"><div class="details"><div class="photo"><table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://united-architects.org/images/album-cover/general-membership-meeting-2014.jpg" alt="General Membership Meeting 2014"></td></tr></tbody></table></div><div class="title">General Membership Meeting 2014</div></div></a>                           
+                           <div class="clear"></div>
+                        </div>
+                     </div>
+                     
+                  </div>
+                  <div class="home rightcol">
+                     
+<div class="widget videos">
+   <div class="header">Videos</div>
+   <div class="content">
+      <a href="http://united-architects.org/video/1/world-day-of-architecture-2014" class="thumb"><img src="http://img.youtube.com/vi/qKwFsb8Di3Y/0.jpg" alt="World Day of Architecture 2014"><div class="caption">World Day of Architecture 2014</div></a><a href="http://united-architects.org/video/2/uap-joint-area-assembly-2015" class="thumb"><img src="http://img.youtube.com/vi/LUZl_OgipnY/0.jpg" alt="UAP Joint Area Assembly 2015"><div class="caption">UAP Joint Area Assembly 2015</div></a><a href="http://united-architects.org/video/3/uap-2015-joint-area-assembly-how-to-get-there" class="thumb"><img src="http://img.youtube.com/vi/mzDBXJVsg0k/0.jpg" alt="UAP 2015 Joint Area Assembly: How to Get There?"><div class="caption">UAP 2015 Joint Area Assembly: How to Get There?</div></a>   </div>
+</div>
+
+<div class="widget photos">
+   <div class="header">Photos</div>
+   <a href="http://united-architects.org/album/11/joint-area-assembly" class="content">
+      <img src="http://united-architects.org/images/album-cover/joint-area-assembly.jpg" alt="Joint Area Assembly">
+      <div class="caption">Joint Area Assembly</div>
+   </a>
+</div>
+
+<div class="widget publications">
+   <div class="header">Publications</div>
+   <div class="content">
+      <img src="http://united-architects.org/images/publications/11.jpg" alt="UAP National Directory 2014 - 2015"><div class="caption">UAP National Directory 2014 - 2015</div>   </div>
+</div>
+
+<div class="ahub-wrapper">
+   <a href="http://united-architects.org/architects-hub" class="ahub-link">Architects Hub</a>
+   <ul>
+      <li><a href="http://united-architects.org/architects-hub">Depot</a></li>
+      <li><a href="http://united-architects.org/architects-hub">eStore</a></li>
+      <li><a href="http://united-architects.org/architects-hub">Ad Guide</a></li>
+      <li><a href="http://united-architects.org/architects-hub">Suggested eBooks</a></li>
+      <li><a href="http://united-architects.org/suggested-apps">Suggested Apps</a></li>
+      <li><a href="http://united-architects.org/jobs">Jobs</a></li>
+      <li><a href="http://united-architects.org/uap-files">Files</a></li>
+   </ul>
+</div>                  </div>
+                  
+                  <div class="clear"></div>
+                  <div id="partners">
+   <div class="header">
+      <div class="context"><h2>Partners</h2></div>
+      <div class="clear"></div>
+   </div>
+   <div class="content">
+      <div class="partner"><a href="http://www.arcasia.org/" target="_blank"><img src="http://united-architects.org/images/partners/partner-1.jpg" alt="0"></a></div><div class="partner"><a href="http://www.uia.archi/" target="_blank"><img src="http://united-architects.org/images/partners/partner-2.jpg" alt="1"></a></div><div class="partner"><a href="http://www.earoph.info/" target="_blank"><img src="http://united-architects.org/images/partners/partner-3.jpg" alt="2"></a></div><div class="partner"><a href="http://apec.org/" target="_blank"><img src="http://united-architects.org/images/partners/partner-4.jpg" alt="3"></a></div><div class="partner"><a href="http://www.prc.gov.ph/" target="_blank"><img src="http://united-architects.org/images/partners/partner-5.jpg" alt="4"></a></div><div class="partner"><a href="http://www.architectureboard.ph" target="_blank"><img src="http://united-architects.org/images/partners/partner-6.jpg" alt="5"></a></div><div class="partner"><a href="http://www.ncca.gov.ph/" target="_blank"><img src="http://united-architects.org/images/partners/partner-7.jpg" alt="6"></a></div><div class="partner"><a href="http://www.dpwh.gov.ph" target="_blank"><img src="http://united-architects.org/images/partners/partner-8.jpg" alt="7"></a></div>   </div>
+</div>                  <div class="clear"></div>
+               </div>
+            </div>
+            
+            <div id="footer">
+   <div class="inner">
+      
+      <!--<div id="underconstruction">
+         "We apologize for the inconvenience, the site is under Beta phase and being Optimized for a better user experience. Thank you!"
+      </div>-->
+      
+      <!--<div class="box newmem">
+         <div class="header">New Member</div>
+         <div class="content">
+            Register to login
+            <div class="clear"></div>
+            <a href="register.php">Register</a>
+            <div class="clear"></div>
+            <br />Already have an account?
+            <div class="clear"></div>
+            <a href="login.php">Login</a>
+         </div>
+      </div>
+      
+      <div class="box latest">
+         <div class="header">Latest</div>
+         <div class="content">
+            <a href="#">Irish Architecture</a>
+            <a href="#">Architecture Book</a>
+            <a href="#">Backstage Architecture</a>
+            <a href="#">Charnley Summer Cottage Complex</a>
+         </div>
+      </div>-->
+      
+      <!--<div class="box sitemap">
+         <div class="header">Links</div>
+         <div class="content">
+            <a href="http://united-architects.org/about-uap-officers.php">About UAP</a>
+            <a href="http://united-architects.org/publications.php">Publications</a>
+            <a href="http://united-architects.org/events.php">Events</a>
+            <a href="http://united-architects.org/areas.php">Members</a>
+            <a href="http://united-architects.org/gallery.php">Gallery</a>
+            <!--<a href="#">Architects' Hub</a>-->
+            <!--<a href="http://united-architects.org/contactus.php">Contact Us</a>
+         </div>
+      </div>-->
+      
+      <div class="box social">
+         <div class="header">Social Media Links</div>
+         <div class="content">
+            <a href="#">
+               <span class="ti-facebook"></span>
+               LIKE US
+            </a>
+            <a href="#">
+               <span class="ti-twitter-alt"></span>
+               FOLLOW
+            </a>
+            <a href="#">
+               <span class="ti-instagram"></span>
+               CAPTURE
+            </a>
+            <a href="#">
+               <span class="ti-google"></span>
+               CONNECT
+            </a>
+         </div>
+      </div>
+      
+      <div class="clear"></div>
+      
+      <div class="main">
+         
+         United Architects of the Philippines ™ 2015
+         
+         <ul class="footer-nav">
+            <li><a href="http://united-architects.org/about-uap-officers.php">About UAP</a></li>
+            <li><a href="http://united-architects.org/publications.php">Publications</a></li>
+            <li><a href="http://united-architects.org/events.php">Events</a></li>
+            <li><a href="http://united-architects.org/areas.php">Members</a></li>
+            <li><a href="http://united-architects.org/gallery.php">Gallery</a></li>
+            <!--<li><a href="#">Architects' Hub</a></li>-->
+            <li><a href="http://united-architects.org/contactus.php">Contact Us</a></li>
+         </ul>
+         
+      </div>
+      
+      <div class="clear"></div>
+      
+   </div>
+</div>
+            
+         </div>
+      </div>
+      
+   
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>

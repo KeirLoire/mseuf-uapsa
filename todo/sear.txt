@@ -1,0 +1,285 @@
+<div class="mainBody_contents">
+          <div class="news_left">
+                <div class="news_content">
+                <div class="articles">
+                  
+<div class="search">
+
+
+<form id="searchForm" action="/index.php?option=com_search&amp;view=search&amp;Itemid=1310" method="post">
+
+	<fieldset class="word">
+		<label for="search-searchword">
+			Search Keyword:		</label>
+		<input type="text" name="searchword" id="search-searchword" size="30" maxlength="20" value="find" class="inputbox">
+		<button name="Search" onclick="this.form.submit()" class="button">Search</button>
+		<input type="hidden" name="task" value="search">
+	</fieldset>
+
+	<div class="searchintro">
+				<p><strong>Total: 10 results found.</strong></p>
+			</div>
+
+	<fieldset class="phrases">
+		<legend>Search for:		</legend>
+			<div class="phrases-box">
+			
+	<input type="radio" name="searchphrase" id="searchphraseall" value="all" checked="checked">
+	<label for="searchphraseall" id="searchphraseall-lbl" class="radiobtn">All words</label>
+	<input type="radio" name="searchphrase" id="searchphraseany" value="any">
+	<label for="searchphraseany" id="searchphraseany-lbl" class="radiobtn">Any words</label>
+	<input type="radio" name="searchphrase" id="searchphraseexact" value="exact">
+	<label for="searchphraseexact" id="searchphraseexact-lbl" class="radiobtn">Exact Phrase</label>
+			</div>
+			<div class="ordering-box">
+			<label for="ordering" class="ordering">
+				Ordering:			</label>
+			<select id="ordering" name="ordering" class="inputbox">
+	<option value="newest" selected="selected">Newest First</option>
+	<option value="oldest">Oldest First</option>
+	<option value="popular">Most Popular</option>
+	<option value="alpha">Alphabetical</option>
+	<option value="category">Category</option>
+</select>
+			</div>
+	</fieldset>
+
+			<fieldset class="only">
+		<legend>Search Only:</legend>
+				<input type="checkbox" name="areas[]" value="projects" id="area-projects">
+			<label for="area-projects">
+				Projects			</label>
+				<input type="checkbox" name="areas[]" value="publications" id="area-publications">
+			<label for="area-publications">
+				Publications			</label>
+				<input type="checkbox" name="areas[]" value="researchAreas" id="area-researchAreas">
+			<label for="area-researchAreas">
+				Research areas			</label>
+				<input type="checkbox" name="areas[]" value="staff" id="area-staff">
+			<label for="area-staff">
+				Staff			</label>
+				<input type="checkbox" name="areas[]" value="categories" id="area-categories">
+			<label for="area-categories">
+				Categories			</label>
+				<input type="checkbox" name="areas[]" value="contacts" id="area-contacts">
+			<label for="area-contacts">
+				Contacts			</label>
+				<input type="checkbox" name="areas[]" value="content" id="area-content">
+			<label for="area-content">
+				Articles			</label>
+				<input type="checkbox" name="areas[]" value="newsfeeds" id="area-newsfeeds">
+			<label for="area-newsfeeds">
+				Newsfeeds			</label>
+				<input type="checkbox" name="areas[]" value="weblinks" id="area-weblinks">
+			<label for="area-weblinks">
+				Weblinks			</label>
+				</fieldset>
+	
+
+	<div class="form-limit">
+		<label for="limit">
+			Display #		</label>
+		<select id="limit" name="limit" class="inputbox" size="1" onchange="this.form.submit()">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20" selected="selected">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50">50</option>
+	<option value="100">100</option>
+	<option value="0">All</option>
+</select>
+	</div>
+<p class="counter">
+			</p>
+
+
+</form>
+
+<dl class="search-results">
+	<dt class="result-title">
+		1. 					<a href="/index.php?option=com_content&amp;view=article&amp;id=588:program-educational-objectives&amp;catid=93:graduate-studies-and-research2&amp;Itemid=1572">
+				Program Educational Objectives			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(Graduate Studies and Research)
+			</span>
+		</dd>
+		<dd class="result-text">
+		...&nbsp;resources. 
+3. Show principled leadership in their workplaces. 
+4. Act as catalysts for social justice and sustainable development. 
+5. Apply relevant research <span class="highlight">find</span>ings in the public service. 
+6. Preserve&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 13 May 2014		</dd>
+		<dt class="result-title">
+		2. 					<a href="/index.php?option=com_content&amp;view=article&amp;id=355:library-user-information-system-section-luiss&amp;catid=120:library-dept&amp;Itemid=1263">
+				Library User Information System Section (LUISS)			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(Library Dept)
+			</span>
+		</dd>
+		<dd class="result-text">
+		<span class="highlight">Find</span>ing information is easy. Retrieval is frequently overwhelming, and much of the information has not been subjected to the peer review process. There is a huge amount of information available in the&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 07 August 2009		</dd>
+		<dt class="result-title">
+		3. 					<a href="/index.php?option=com_content&amp;view=article&amp;id=344:circulation-and-reserve-section&amp;catid=120:library-dept&amp;Itemid=1240">
+				Circulation and Reserve Section (CRS)			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(Library Dept)
+			</span>
+		</dd>
+		<dd class="result-text">
+		...&nbsp;(15) minutes before the closing time of the library to clear the desks for the next library day service. 
+BORROWING AND RETURNING OF BOOKS 
+Circulation and Reserve Books 
+How to Locate books 
+To <span class="highlight">find</span>&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 03 August 2009		</dd>
+		<dt class="result-title">
+		4. 					<a href="/index.php?option=com_content&amp;view=article&amp;id=142:objectives57&amp;catid=93:graduate-studies-and-research2&amp;Itemid=754">
+				Goals and Objectives			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(Graduate Studies and Research)
+			</span>
+		</dd>
+		<dd class="result-text">
+		...&nbsp;of social change, sustainable development and social justice; 
+To help raise the quality of life of the citizenry; 
+To utilize applicable research <span class="highlight">find</span>ings for the upliftment of the livelihood of urban&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 23 February 2005		</dd>
+		<dt class="result-title">
+		5. 					<a href="/index.php?option=com_content&amp;view=article&amp;id=111:missionvision43&amp;catid=77:arts-and-sciences&amp;Itemid=1535">
+				Mission, Vision and Objectives			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(Arts and Sciences)
+			</span>
+		</dd>
+		<dd class="result-text">
+		...&nbsp;commits itself and its resources, both human and material, to help raise the quality of life of the citizenry; 
+The institution commits itself to utilize applicable research <span class="highlight">find</span>ings for the upliftment&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 22 December 2004		</dd>
+		<dt class="result-title">
+		6. 					<a href="/index.php?option=com_content&amp;view=archive&amp;year=2011&amp;month=4">
+				MSEUF sends off grads in 64th Commencement Exercises			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(University News)
+			</span>
+		</dd>
+		<dd class="result-text">
+		...&nbsp;professional degrees. 
+
+“<span class="highlight">Find</span> your own Calcutta, what Mother Theresa taught about meaningful work and service.”  
+
+
+TESDA Director General Emmanuel Joel J. Villanueva, this year’s Commencement Speaker&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 13 April 2011		</dd>
+		<dt class="result-title">
+		7. 					<a href="/index.php?option=com_content&amp;view=archive&amp;year=2011&amp;month=3">
+				CAS, DCAVRPI host 3rd student research forum			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(University News)
+			</span>
+		</dd>
+		<dd class="result-text">
+		...&nbsp;forum highlighted significant <span class="highlight">find</span>ings in various disciplines. Brizza Margareth Rosales, AB Economics, discussed about the economics of secondhand retail trade or ukay-ukay while Eunice Mansion, AB Political&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 22 March 2011		</dd>
+		<dt class="result-title">
+		8. 					<a href="/index.php?option=com_content&amp;view=archive&amp;year=2007&amp;month=8">
+				Student Organizations			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(Student Life)
+			</span>
+		</dd>
+		<dd class="result-text">
+		...&nbsp;or join a fraternity or sorority, you'll <span class="highlight">find</span> many options at Enverga University.
+ 
+
+	No matter what your interest, there's a good chance you'll choose to join one or more than the 50 accredited clubs&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 22 August 2007		</dd>
+		<dt class="result-title">
+		9. 					<a href="/index.php?option=com_content&amp;view=archive&amp;year=2004&amp;month=12">
+				Objectives			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(Arts and Sciences)
+			</span>
+		</dd>
+		<dd class="result-text">
+		...&nbsp;the citizenry;  
+The institution commits itself to utilize applicable research <span class="highlight">find</span>ings for the upliftment of the livelihood of urban and rural poor;  
+ The institution commits itself to help train and&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 22 December 2004		</dd>
+		<dt class="result-title">
+		10. 					<a href="/index.php?option=com_content&amp;view=archive&amp;year=2002&amp;month=5">
+				Physical Plant and Facilities			</a>
+			</dt>
+			<dd class="result-category">
+			<span class="small">
+				(Physical Plant and Facilities)
+			</span>
+		</dd>
+		<dd class="result-text">
+		...&nbsp;You will <span class="highlight">find</span> another path to your left that leads to the Church of the Holy Face. Formerly the Sta. Veronica Chapel. It was elevated as a parish only last July. 
+ 
+
+
+
+ 
+
+
+
+    
+
+
+
+ 
+
+
+
+
+University&nbsp;...	</dd>
+			<dd class="result-created">
+			Created on 19 May 2002		</dd>
+	</dl>
+
+<div class="pagination">
+	</div>
+</div>
+
+               
+                </div>
+              </div>
+            
+                                
+          </div>
+          <div class="rightBody_items">
+                                           
+              </div>
+    </div>
