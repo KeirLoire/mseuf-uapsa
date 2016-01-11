@@ -177,11 +177,13 @@
             		</div>
             		<div id="footer">
             			<div class="inner">
+            				<div class="clear"></div>
             				<h1 id="logo">
             					<div>
             						<span>United Architects of the Philippines Student Auxillary &copy 2016<br>Manuel S. Enverga University Foundation Chapter</span>
             					</div>
             				</h1>
+            				<div class="clear"></div>
                 		</div>
             		</div>
         	</div>
