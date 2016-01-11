@@ -6,15 +6,15 @@
     	<meta name="keywords" content="">
     	<title>UAPSA :: MSEUF Chapter</title>
         <link rel="shortcut icon" type="images/x-icon" href="favicon.ico">
-        <link href="css/main.css" rel="stylesheet" type="text/css"/>
-        <link href="css/main-responsive.css" rel="stylesheet" type="text/css"/>
-        <link href="css/themify-icons.css" rel="stylesheet" type="text/css"/>
-        <link href="css/jquery-te.css" rel="stylesheet" type="text/css"/>
-        <script type="text/javascript" src="js/jquery.js"></script>
-        <script type="text/javascript" src="js/jquery-te.js"></script>
-        <script type="text/javascript" src="js/lightbox.js"></script>
-        <script type="text/javascript" src="js/main.js"></script>
-        <script type="text/javascript" src="js/simplemodal.js"></script>
+        <link href="http://mseufuapsa.azurewebsites.net/css/main.css" rel="stylesheet" type="text/css"/>
+        <link href="http://mseufuapsa.azurewebsites.net/css/main-responsive.css" rel="stylesheet" type="text/css"/>
+        <link href="http://mseufuapsa.azurewebsites.net/css/themify-icons.css" rel="stylesheet" type="text/css"/>
+        <link href="http://mseufuapsa.azurewebsites.net/css/jquery-te.css" rel="stylesheet" type="text/css"/>
+        <script type="text/javascript" src="http://mseufuapsa.azurewebsites.net/js/jquery.js"></script>
+        <script type="text/javascript" src="http://mseufuapsa.azurewebsites.net/js/jquery-te.js"></script>
+        <script type="text/javascript" src="http://mseufuapsa.azurewebsites.net/js/lightbox.js"></script>
+        <script type="text/javascript" src="http://mseufuapsa.azurewebsites.net/js/main.js"></script>
+        <script type="text/javascript" src="http://mseufuapsa.azurewebsites.net/js/simplemodal.js"></script>
     </head>
 	<body>
     	<div class="main">
@@ -23,7 +23,7 @@
             		<div class="inner">
                     		<h1 class="logo">
                         		<a href="http://mseufuapsa.azurewebsites.net/">
-                            			<img src="images/logo-uapsa-mseuf.jpg" alt="UAPSA MSEUF Logo" />
+                            			<img src="http://mseufuapsa.azurewebsites.net/images/logo-uapsa-mseuf.jpg" alt="UAPSA MSEUF Logo" />
                         			<div>
                         				United Architects of the Philippines Student Auxillary
                         				<span>Manuel S. Enverga University Foundation Chapter</span>
@@ -37,33 +37,33 @@
             		<div class="inner">
                 		<ul class="nav">
                         	<li>
-                            	<a href="index.php" class="active">Home</a>
+                            	<a href="http://mseufuapsa.azurewebsites.net/" class="active">Home</a>
                             </li>
                             <li>
-                            	<a href="about/index.php">About</a>
+                            	<a href="http://mseufuapsa.azurewebsites.net/about/">About</a>
                                 <ul>
                                 	<li>
-                                    	<a href="about/vision-mission-objectives/index.php">Vision, Mission, Objectives</a>
+                                    	<a href="http://mseufuapsa.azurewebsites.net/about/vision-mission-objectives/">Vision, Mission, Objectives</a>
                                     </li>
                                     <li>
-                                    	<a href="about/affiliations/index.php">Affiliations</a>
+                                    	<a href="http://mseufuapsa.azurewebsites.net/about/affiliations/">Affiliations</a>
                                     </li>
                                     <li>
-                                    	<a href="about/awards-and-recognitions/index.php">Awards and Recognitions</a>
+                                    	<a href="http://mseufuapsa.azurewebsites.net/about/awards-and-recognitions/">Awards and Recognitions</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                            	<a href="events/index.php">Events</a>
+                            	<a href="http://mseufuapsa.azurewebsites.net/events/">Events</a>
                             </li>
                             <li>
-                            	<a href="members/index.php">Members</a>
+                            	<a href="http://mseufuapsa.azurewebsites.net/members/">Members</a>
                             </li>
                             <li>
-                            <a href="gallery/index.php">Gallery</a>
+                            <a href="http://mseufuapsa.azurewebsites.net/gallery/">Gallery</a>
                             </li>
                             <li>
-                            <a href="contact/index.php">Contact Us</a>
+                            <a href="http://mseufuapsa.azurewebsites.net/contact/">Contact Us</a>
                             </li>
                         </ul>
                         <div class="clear"></div>
@@ -80,16 +80,16 @@
                             </ul>
                             <ul id="slider" style="width: 4280px; 0px;">
                             	<li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="images/banners/banner1.jpg" alt="Banner 1" />
+                                	<img src="http://mseufuapsa.azurewebsites.net/images/banners/banner1.jpg" alt="Banner 1" />
                                 </li>
                                 <li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="images/banners/banner2.jpg" alt="Banner 2" />
+                                	<img src="http://mseufuapsa.azurewebsites.net/images/banners/banner2.jpg" alt="Banner 2" />
                                 </li>
                                 <li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="images/banners/banner3.jpg" alt="Banner 3" />
+                                	<img src="http://mseufuapsa.azurewebsites.net/images/banners/banner3.jpg" alt="Banner 3" />
                                 </li>
                                 <li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="images/banners/banner4.jpg" alt="Banner 4" />
+                                	<img src="http://mseufuapsa.azurewebsites.net/images/banners/banner4.jpg" alt="Banner 4" />
                                 </li>
                             </ul>
                         </div>
