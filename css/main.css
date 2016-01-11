@@ -366,7 +366,7 @@ table.form tr.header td { margin: 10px 0 0 0; padding: 10px 10px 5px 10px; heigh
 #files a:hover { text-decoration: underline; }
 /* FOOTER */
 #underconstruction { margin: 0 0 20px 0; padding: 0 0 20px 0; border-bottom: 1px solid #ff0; color: #ff0; font-size: 16px; font-weight: bold; text-align: center; }
-#footer { margin: 20px -15px -15px -15px; background: #b42200; }
+#footer { margin: 20px -15px -15px -15px; background: #FFFFFF; }
 #footer .inner { padding: 20px 15px; }
 #footer .box { float: left; width: 50%; }
 #footer .box .header { padding: 2%; border-bottom: 1px solid #f33; font-size: 16px; color: #fff; }
