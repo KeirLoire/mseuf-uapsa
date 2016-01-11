@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
     	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
-    	<meta name="description" content="">
+    	<meta name="description" content="United Architects of the Philippines Student Auxiliary (UAPSA) is the student organization of the United Architects of the Philippines (UAP) in Manuel S. Enverga University Foundation.">
     	<meta name="keywords" content="">
     	<title>UAPSA :: MSEUF Chapter</title>
         <link rel="shortcut icon" type="http://uapsa-mseuf.azurewebsites.net/images/x-icon" href="favicon.ico">
