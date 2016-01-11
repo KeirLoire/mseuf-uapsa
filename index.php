@@ -142,6 +142,7 @@
                                   			</div>
                             			</div>
                         		</div>
+                        		<div class="clear"></div>
                 			<div class="home rightcol">
                         			<div class="widget videos">
                             				<div class="header">Videos</div>
@@ -157,8 +158,6 @@
                         		<br>
                         		<br>
                         		<br>
-                        		<div class="clear"></div>
-                        		<div class="clear"></div>
                         		<div id="partners">
                         			<div class="header">
                             				<div class="context">
