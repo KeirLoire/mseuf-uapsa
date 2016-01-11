@@ -23,13 +23,18 @@
             		<div class="inner">
                     		<h1 class="logo">
                         		<a href="http://uapsa-mseuf.azurewebsites.net/">
-                            			<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-uapsa-mseuf.jpg" alt="UAPSA MSEUF Logo" />
+                            			<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-uapsa-mseuf.jpg" alt="UAPSA-MSEUF Logo" />
                         			<div>
                         				United Architects of the Philippines Student Auxillary
                         				<span>Manuel S. Enverga University Foundation Chapter</span>
                         			</div>
                         			</a>
                     		</h1>
+                    		<div>
+                    			<a href="http://mseuf.edu.ph/">
+                    				<img src="http://uapsa-mseuf.azurewebsites.net/images/logo--mseuf.png" alt="MSEUF Logo" />
+                    			</a>
+                    		</div>
                 	</div>
                     <div class="clear"></div>
             	</div>
@@ -81,7 +86,7 @@
                                 	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/20150921-conex.jpg" alt="Convetion Exhibit" />
                                 </li>
                                 <li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/20151126-naw-national-artistjpg" alt="Paghugpong Bonding Together Towards Higher Ground" />
+                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/20151126-naw-national-artist.jpg" alt="Paghugpong Bonding Together Towards Higher Ground" />
                                 </li>
                                 </li>
                             </ul>
