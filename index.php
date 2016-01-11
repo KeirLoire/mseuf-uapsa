@@ -30,7 +30,7 @@
                         			</div>
                         			</a>
                     		</h1>
-                    		<h1>
+                    		<h1 class="logo">
                     			<a href="http://mseuf.edu.ph/">
                     				<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-mseuf.png" alt="MSEUF Logo" />
                     			</a>
