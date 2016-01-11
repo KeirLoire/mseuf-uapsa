@@ -170,6 +170,11 @@
                                     					<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-uap.jpg" alt="0" />
                                     				</a>
                                 			</div>
+                                			<div class="partner">
+                                				<a href="http://mseuf.edu.ph/" target="_blank">
+                                					<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-mseuf.png" alt="1" />
+                                				</a>
+                                			</div>
                             			</div>
                         		</div>
                         		<div class="clear"></div>
@@ -181,7 +186,7 @@
             				<div class="clear"></div>
             				<h1 id="logo">
             					<div>
-            						<span>United Architects of the Philippines Student Auxillary &copy 2016<br>Manuel S. Enverga University Foundation Chapter</span>
+            						<span>United Architects of the Philippines Student Auxillary &copy 2016<br>Manuel S. Enverga University Foundation, University Site, Lucena City, Philippines</span>
             					</div>
             				</h1>
             				<div class="clear"></div>
