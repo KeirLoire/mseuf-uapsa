@@ -60,7 +60,7 @@ html { background: #89220f repeat scroll 0 0; font: normal 14px Arial, Verdana, 
 #navigation { margin: 10px 0 0 0; background: #b52200; box-shadow: 0 5px 10px #999; }
 #nav { float: left; }
 #nav > li { display: inline; position: relative; float: left; }
-#nav > li a { display: block; padding: 16px 27px; text-decoration: none; color: #fff; font-size: 12px; font-weight: bold; }
+#nav > li a { display: block; padding: 16px 25px; text-decoration: none; color: #fff; font-size: 12px; font-weight: bold; }
 #nav > li a:hover { background: rgba(255,255,255,0.1); }
 #nav > li > a.active { background: #24328a; }
 #nav > li > ul { display: none; position: absolute; z-index: 999; border-top: 5px solid #b52200; }
@@ -81,7 +81,7 @@ html { background: #89220f repeat scroll 0 0; font: normal 14px Arial, Verdana, 
 .sub-nav > li > a.active { background: #24328a; color: #fff; }
 .sub-nav > li > a .comingsoon { font-size: 12px; font-weight: 900; color: #f00; }
 /* SEARCH */
-.search { float: right; margin: 5px; }
+.search { float: right; margin: 3px; }
 .search input { float: left; border: 1px solid #b52200; }
 .search input:first-child { padding: 10px; width: 180px; }
 .search input:last-child { margin: 0 0 0 -1px; padding: 10px 20px; height: 37px; cursor: pointer; }
