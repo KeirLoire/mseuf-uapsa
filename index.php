@@ -64,10 +64,21 @@
                             	<a href="http://uapsa-mseuf.azurewebsites.net/events/">Events</a>
                             </li>
                             <li>
-                            	<a href="http://uapsa-mseuf.azurewebsites.net/members/">Members</a>
+                            	<a href="http://uapsa-mseuf.azurewebsites.net/members/">Officers FY 2015-2016</a>
                             </li>
                             <li>
                             	<a href="http://uapsa-mseuf.azurewebsites.net/gallery/">Gallery</a>
+                            	<ul>
+                            		<li>
+                            			<a href="http://uapsa-mseuf.azurewebsites.net/gallery/photos/">Photos</a>
+                            		</li>
+                            		<li>
+                            			<a href="http://uapsa-mseuf.azurewebsites.net/gallery/videos/">Videos</a>
+                            		</li>
+                            		<li>
+                            			<a href="http://uapsa-mseuf.azurewebsites.net/gallery/activities/">Activities</a>
+                            		</li>
+                            	</ul>
                             </li>
                             <li>
                             	<a href="http://uapsa-mseuf.azurewebsites.net/contactus/">Contact Us</a>
