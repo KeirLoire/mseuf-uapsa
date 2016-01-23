@@ -45,7 +45,7 @@
                             	<a href="../index.php">Home</a>
                             </li>
                             <li>
-                            	<a href="../about/index.php" class="active">About</a>
+                            	<a href="../about/index.php">About</a>
                                 <ul>
                                 	<li>
                                     	<a href="../about/history/index.php">History</a>
@@ -65,7 +65,7 @@
                             	<a href="../events/index.php">Events</a>
                             </li>
                             <li>
-                            	<a href="../officers/index.php">Officers FY 2015-2016</a>
+                            	<a href="../officers/index.php" class="active">Officers FY 2015-2016</a>
                             </li>
                             <li>
                             	<a href="../gallery/index.php">Gallery</a>

@@ -5,16 +5,16 @@
     		<meta name="description" content="United Architects of the Philippines Student Auxiliary (UAPSA) is the student organization of the United Architects of the Philippines (UAP) in Manuel S. Enverga University Foundation (MSEUF).">
     		<meta name="keywords" content="manuel s. enverga university foundation united architects of the philippines student auxiliary uapsa mseuf">
     		<title>UAPSA :: MSEUF Chapter</title>
-        	<link rel="shortcut icon" type="http://uapsa-mseuf.azurewebsites.net/images/x-icon" href="favicon.ico">
-        	<link href="http://uapsa-mseuf.azurewebsites.net/css/main.css" rel="stylesheet" type="text/css"/>
-        	<link href="http://uapsa-mseuf.azurewebsites.net/css/main-responsive.css" rel="stylesheet" type="text/css"/>
-        	<link href="http://uapsa-mseuf.azurewebsites.net/css/themify-icons.css" rel="stylesheet" type="text/css"/>
-        	<link href="http://uapsa-mseuf.azurewebsites.net/css/jquery-te.css" rel="stylesheet" type="text/css"/>
-        	<script type="text/javascript" src="http://uapsa-mseuf.azurewebsites.net/js/jquery.js"></script>
-        	<script type="text/javascript" src="http://uapsa-mseuf.azurewebsites.net/js/jquery-te.js"></script>
-        	<script type="text/javascript" src="http://uapsa-mseuf.azurewebsites.net/js/lightbox.js"></script>
-        	<script type="text/javascript" src="http://uapsa-mseuf.azurewebsites.net/js/main.js"></script>
-        	<script type="text/javascript" src="http://uapsa-mseuf.azurewebsites.net/js/simplemodal.js"></script>
+        	<link rel="shortcut icon" type="images/x-icon" href="support/favicon.ico">
+        	<link href="css/main.css" rel="stylesheet" type="text/css"/>
+        	<link href="css/main-responsive.css" rel="stylesheet" type="text/css"/>
+        	<link href="css/themify-icons.css" rel="stylesheet" type="text/css"/>
+        	<link href="css/jquery-te.css" rel="stylesheet" type="text/css"/>
+        	<script type="text/javascript" src="js/jquery.js"></script>
+        	<script type="text/javascript" src="js/jquery-te.js"></script>
+        	<script type="text/javascript" src="js/lightbox.js"></script>
+        	<script type="text/javascript" src="js/main.js"></script>
+        	<script type="text/javascript" src="js/simplemodal.js"></script>
     	</head>
 	<body>
     	<div id="main">
@@ -22,21 +22,19 @@
             	<div id="header">
             		<div class="inner">
                     		<h1 id="logo">
-                        		<a href="http://uapsa-mseuf.azurewebsites.net/">
-                            			<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-uapsa-mseuf.jpg" alt="UAPSA-MSEUF Logo" />
+                        		<a href="index.php">
+                            			<img src="images/logo-uapsa-mseuf.jpg" alt="UAPSA-MSEUF Logo" />
                         			<div>
                         				United Architects of the Philippines Student Auxiliary
                         				<span>Manuel S. Enverga University Foundation Chapter</span>
                         			</div>
                         		</a>
                     		</h1>
-                    		<div style="float:right;">
-                    			<h1 id="logo">
-                    				<a href="http://mseuf.edu.ph/">
-                    					<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-mseuf.png" alt="MSEUF Logo" />
-                    				</a>
-                                </h1>
-                    		</div>
+                    		<div class="social-media">
+                            	<ul>
+                                	<li><a href="" target="_blank"><img src="images/icon-social-media-facebook.png" alt="Facebook" /></a></li>
+                                </ul>
+                            </div>
                 	</div>
                     <div class="clear"></div>
             	</div>
@@ -44,26 +42,46 @@
             		<div class="inner">
                 		<ul id="nav">
                         	<li>
-                            	<a href="http://uapsa-mseuf.azurewebsites.net/" class="active">Home</a>
+                            	<a href="index.php" class="active">Home</a>
                             </li>
                             <li>
-                            	<a href="http://uapsa-mseuf.azurewebsites.net/about/">About</a>
+                            	<a href="about/index.php">About</a>
                                 <ul>
                                 	<li>
-                                    	<a href="http:/uapsa-mseuf.azurewebsites.net/about/vision-mission-objectives/">Vision, Mission, Objectives</a>
+                                    	<a href="../about/history/index.php">History</a>
+                                    </li>
+                                	<li>
+                                    	<a href="about/vision-mission-objectives/index.php">Vision, Mission, Objectives</a>
                                     </li>
                                     <li>
-                                    	<a href="http://uapsa-mseuf.azurewebsites.net/about/affiliations/">Affiliations</a>
+                                    	<a href="about/affiliations/index.php">Affiliations</a>
                                     </li>
                                     <li>
-                                    	<a href="http://uapsa-mseuf.azurewebsites.net/about/awards-and-recognitions/">Awards and Recognitions</a>
+                                    	<a href="about/awards-and-recognitions/index.php">Awards and Recognitions</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                            	<a href="http://uapsa-mseuf.azurewebsites.net/events/">Events</a>
+                            	<a href="events/index.php">Events</a>
                             </li>
                             <li>
+<<<<<<< HEAD
+                            	<a href="officers/index.php">Officers FY 2015-2016</a>
+                            </li>
+                            <li>
+                            	<a href="gallery/index.php">Gallery</a>
+                                <ul>
+                                	<li>
+                                    	<a href="../gallery/photos/index.php">Photos</a>
+                                    </li>
+                                    <li>
+                                    	<a href="../gallery/videos/index.php">Videos</a>
+                                    </li>
+                                    <li>
+                                    	<a href="../gallery/activities/index.php">Activities</a>
+                                    </li>
+                                </ul>
+=======
                             	<a href="http://uapsa-mseuf.azurewebsites.net/members/">Officers FY 2015-2016</a>
                             </li>
                             <li>
@@ -79,9 +97,10 @@
                             			<a href="http://uapsa-mseuf.azurewebsites.net/gallery/activities/">Activities</a>
                             		</li>
                             	</ul>
+>>>>>>> origin/master
                             </li>
                             <li>
-                            	<a href="http://uapsa-mseuf.azurewebsites.net/contactus/">Contact Us</a>
+                            	<a href="contact-us/index.php">Contact Us</a>
                             </li>
                         </ul>
                         <div class="search">
@@ -102,10 +121,10 @@
                             </ul>
                             <ul id="slider" style="width: 2140px; left: 0px;">
                             	<li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/20150921-conex.jpg" alt="Convetion Exhibit" />
+                                	<img src="images/banners/20150921-conex.jpg" alt="Convetion Exhibit" />
                                 </li>
                                 <li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="http://uapsa-mseuf.azurewebsites.net/images/banners/20151126-naw-national-artist.jpg" alt="Paghugpong Bonding Together Towards Higher Ground" />
+                                	<img src="images/banners/20151126-naw-national-artist.jpg" alt="Paghugpong Bonding Together Towards Higher Ground" />
                                 </li>
                             </ul>
                         </div>
@@ -179,12 +198,12 @@
                             			<div class="content">
                             				<div class="partner">
                                 				<a href="http://united-architects.org/" target="_blank">
-                                    					<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-uap.jpg" alt="0" />
+                                    					<img src="images/logo-uap.jpg" alt="UAP" />
                                     				</a>
                                 			</div>
                                 			<div class="partner">
                                 				<a href="http://mseuf.edu.ph/" target="_blank">
-                                					<img src="http://uapsa-mseuf.azurewebsites.net/images/logo-mseuf.png" alt="1" />
+                                					<img src="images/logo-mseuf.png" alt="MSEUF" />
                                 				</a>
                                 			</div>
                             			</div>
@@ -194,11 +213,13 @@
             		<div id="footer">
             			<div class="inner">
             				<div class="clear"></div>
-            				<h1 id="logo">
-            					<div>
-            						<span>United Architects of the Philippines Student Auxiliary &copy 2016<br>Manuel S. Enverga University Foundation, University Site, Lucena City, Philippines</span>
-            					</div>
-            				</h1>
+            				<div id="content">
+            					<h1>
+            						<div>
+            							<span>United Architects of the Philippines Student Auxiliary &copy 2016<br>Manuel S. Enverga University Foundation, University Site, Lucena City, Philippines</span>
+            						</div>
+            					</h1>
+                            </div>
             				<div class="clear"></div>
                 		</div>
             		</div>

@@ -45,7 +45,7 @@
                             	<a href="../index.php">Home</a>
                             </li>
                             <li>
-                            	<a href="../about/index.php" class="active">About</a>
+                            	<a href="../about/index.php">About</a>
                                 <ul>
                                 	<li>
                                     	<a href="../about/history/index.php">History</a>
@@ -82,7 +82,7 @@
                                 </ul>
                             </li>
                             <li>
-                            	<a href="../contact-us/index.php">Contact Us</a>
+                            	<a href="../contact-us/index.php" class="active">Contact Us</a>
                             </li>
                         </ul>
                         <div class="search">
@@ -97,7 +97,52 @@
             		<div id="body">
             			<div class="inner">
                     			<div class="clear"></div>
-                        		
+                        		<div class="home leftcol">
+                        			<div id="inquiry-form" class="section">
+                                    	<div class="header"><h2>Send Us A Message</h2></div>
+                                        <div class="content">
+                                        	<form method="post" action="functions/send-inquiry.php">
+                                            	<table cellpadding="0" cellspacing="0" class="form">
+                                                	<tbody><tr>
+                                                    	<td>Name:</td>
+                                                        <td><input type="text" name="mname" maxlength="30" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td>Email:</td>
+                                                        <td><input type="text" name="email" maxlength="50" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td>Mobile No.:</td>
+                                                        <td><input type="text" name="mobile" maxlength="20" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td>Message:</td>
+                                                    	<td><textarea name="message" style="resize:vertical;"></textarea></td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td></td>
+                                                        <td><input type="submit" value="Submit Message" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td></td>
+                                                        <td class="msg"><br></td>
+                                                    </tr>
+                                                	</tbody>
+                                                </table>
+                                            </form>
+                                        </div>
+                                    </div>
+                                    <div id="about" class="section">
+                                    	<div class="header"><h2>Contact Us</h2></div>
+                                        <div class="content">
+                                        	<h3>Phone Number</h3>
+                                            <p>
+                                            </p>
+                                        	<h3>Email Address</h3>
+                                            <p>
+                                            </p>
+                                        </div>
+                                    </div>
                         		</div>
                                 <div class="home rightcol">
                         			<div class="widget videos">
