@@ -62,13 +62,13 @@
 		                    		<li><a href="http://uapsa-mseuf.azurewebsites.net/gallery/activities/">Activities</a></li>
 		                    	</ul></li>
 		                    	<li><a href="contact-us/index.php">Contact Us</a></li>
-		                        <div class="search">
+	                        </ul>
+	                        <div class="search">
 		                        	<form method="post" action="#">
 			                            	<input type="text" placeholder="Enter keywords" />
 			                                <input type="submit" value="Search" />
 		                    		</form>
-		                        </div>
-	                        </ul>
+		                </div>
 	                <div class="clear"></div>
 	    	    	</div>
             	</div>
