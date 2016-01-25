@@ -65,7 +65,6 @@
                             	<a href="events/index.php">Events</a>
                             </li>
                             <li>
-<<<<<<< HEAD
                             	<a href="officers/index.php">Officers FY 2015-2016</a>
                             </li>
                             <li>
@@ -81,7 +80,6 @@
                                     	<a href="../gallery/activities/index.php">Activities</a>
                                     </li>
                                 </ul>
-=======
                             	<a href="http://uapsa-mseuf.azurewebsites.net/members/">Officers FY 2015-2016</a>
                             </li>
                             <li>
@@ -97,7 +95,6 @@
                             			<a href="http://uapsa-mseuf.azurewebsites.net/gallery/activities/">Activities</a>
                             		</li>
                             	</ul>
->>>>>>> origin/master
                             </li>
                             <li>
                             	<a href="contact-us/index.php">Contact Us</a>
