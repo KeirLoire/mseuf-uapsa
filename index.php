@@ -55,12 +55,6 @@
 		                        	<li><a href="../gallery/videos/index.php">Videos</a></li>
 		                        	<li><a href="../gallery/activities/index.php">Activities</a></li>
 		                        </ul></li>
-		                        <li><a href="http://uapsa-mseuf.azurewebsites.net/members/">Officers FY 2015-2016</a></li>
-		                	<li><a href="http://uapsa-mseuf.azurewebsites.net/gallery/">Gallery</a><ul>
-		                    		<li><a href="http://uapsa-mseuf.azurewebsites.net/gallery/photos/">Photos</a></li>
-		                    		<li><a href="http://uapsa-mseuf.azurewebsites.net/gallery/videos/">Videos</a></li>
-		                    		<li><a href="http://uapsa-mseuf.azurewebsites.net/gallery/activities/">Activities</a></li>
-		                    	</ul></li>
 		                    	<li><a href="contact-us/index.php">Contact Us</a></li>
 	                        </ul>
 	                        <div class="search">
