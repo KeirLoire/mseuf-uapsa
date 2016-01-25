@@ -38,94 +38,57 @@
                 	</div>
                     <div class="clear"></div>
             	</div>
-           		<div id="navigation">
-            		<div class="inner">
-                		<ul id="nav">
-                        	<li>
-                            	<a href="index.php" class="active">Home</a>
-                            </li>
-                            <li>
-                            	<a href="about/index.php">About</a>
-                                <ul>
-                                	<li>
-                                    	<a href="../about/history/index.php">History</a>
-                                    </li>
-                                	<li>
-                                    	<a href="about/vision-mission-objectives/index.php">Vision, Mission, Objectives</a>
-                                    </li>
-                                    <li>
-                                    	<a href="about/affiliations/index.php">Affiliations</a>
-                                    </li>
-                                    <li>
-                                    	<a href="about/awards-and-recognitions/index.php">Awards and Recognitions</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                            	<a href="events/index.php">Events</a>
-                            </li>
-                            <li>
-                            	<a href="officers/index.php">Officers FY 2015-2016</a>
-                            </li>
-                            <li>
-                            	<a href="gallery/index.php">Gallery</a>
-                                <ul>
-                                	<li>
-                                    	<a href="../gallery/photos/index.php">Photos</a>
-                                    </li>
-                                    <li>
-                                    	<a href="../gallery/videos/index.php">Videos</a>
-                                    </li>
-                                    <li>
-                                    	<a href="../gallery/activities/index.php">Activities</a>
-                                    </li>
-                                </ul>
-                            	<a href="http://uapsa-mseuf.azurewebsites.net/members/">Officers FY 2015-2016</a>
-                            </li>
-                            <li>
-                            	<a href="http://uapsa-mseuf.azurewebsites.net/gallery/">Gallery</a>
-                            	<ul>
-                            		<li>
-                            			<a href="http://uapsa-mseuf.azurewebsites.net/gallery/photos/">Photos</a>
-                            		</li>
-                            		<li>
-                            			<a href="http://uapsa-mseuf.azurewebsites.net/gallery/videos/">Videos</a>
-                            		</li>
-                            		<li>
-                            			<a href="http://uapsa-mseuf.azurewebsites.net/gallery/activities/">Activities</a>
-                            		</li>
-                            	</ul>
-                            </li>
-                            <li>
-                            	<a href="contact-us/index.php">Contact Us</a>
-                            </li>
-                        </ul>
-                        <div class="search">
-                        	<form method="post" action="#">
-                            	<input type="text" placeholder="Enter keywords" />
-                                <input type="submit" value="Search" />
-                            </form>
-                        </div>
-                        <div class="clear"></div>
-            	    </div>
+   		<div id="navigation">
+	    		<div class="inner">
+	        		<ul id="nav">
+	                	<li><a href="index.php" class="active">Home</a></li>
+	                    	<li><a href="about/index.php">About</a><ul>
+	                        	<li><a href="../about/history/index.php">History</a></li>
+	                        	<li><a href="about/vision-mission-objectives/index.php">Vision, Mission, Objectives</a></li>
+	                        	<li><a href="about/affiliations/index.php">Affiliations</a></li>
+	                        	<li><a href="about/awards-and-recognitions/index.php">Awards and Recognitions</a></li>
+	                        </ul></li>
+	                        <li><a href="events/index.php">Events</a></li>
+	                        <li><a href="officers/index.php">Officers FY 2015-2016</a></li>
+	                        <li><a href="gallery/index.php">Gallery</a><ul>
+	                        	<li><a href="../gallery/photos/index.php">Photos</a></li>
+	                        	<li><a href="../gallery/videos/index.php">Videos</a></li>
+	                        	<li><a href="../gallery/activities/index.php">Activities</a></li>
+	                        </ul></li>
+	                        <li><a href="http://uapsa-mseuf.azurewebsites.net/members/">Officers FY 2015-2016</a></li>
+	                	<li><a href="http://uapsa-mseuf.azurewebsites.net/gallery/">Gallery</a><ul>
+	                    		<li><a href="http://uapsa-mseuf.azurewebsites.net/gallery/photos/">Photos</a></li>
+	                    		<li><a href="http://uapsa-mseuf.azurewebsites.net/gallery/videos/">Videos</a></li>
+	                    		<li><a href="http://uapsa-mseuf.azurewebsites.net/gallery/activities/">Activities</a></li>
+	                    	</ul></li>
+	                    	<li><a href="contact-us/index.php">Contact Us</a></li>
+	                	</ul>
+	                        <div class="search">
+	                        	<form method="post" action="#">
+		                            	<input type="text" placeholder="Enter keywords" />
+		                                <input type="submit" value="Search" />
+	                    		</form>
+	                        </div>
+	                <div class="clear"></div>
+	    	    	</div>
             	</div>
-          		<div id="banner-holder">
-            		<div class="inner">
-                		<div id="banner" style="height:334.375px;">
-                        	<ul id="slider-nav">
-                            	<li id="n1" onclick="selectSlide(1)" class="normal selected"></li>
-                                <li id="n2" onclick="selectSlide(2)" class="normal"></li>
-                            </ul>
-                            <ul id="slider" style="width: 2140px; left: 0px;">
-                            	<li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="images/banners/20150921-conex.jpg" alt="Convetion Exhibit" />
-                                </li>
-                                <li class="slide" style="height: 334.375px; width: 1070px;">
-                                	<img src="images/banners/20151126-naw-national-artist.jpg" alt="Paghugpong Bonding Together Towards Higher Ground" />
-                                </li>
-                            </ul>
-                        </div>
+  		<div id="banner-holder">
+	    		<div class="inner">
+	        		<div id="banner" style="height:334.375px;">
+	                	<ul id="slider-nav">
+	                    	<li id="n1" onclick="selectSlide(1)" class="normal selected"></li>
+	                        <li id="n2" onclick="selectSlide(2)" class="normal"></li>
+	                    </ul>
+	                    <ul id="slider" style="width: 2140px; left: 0px;">
+	                    	<li class="slide" style="height: 334.375px; width: 1070px;">
+	                        	<img src="images/banners/20150921-conex.jpg" alt="Convetion Exhibit" />
+	                        </li>
+	                        <li class="slide" style="height: 334.375px; width: 1070px;">
+	                        	<img src="images/banners/20151126-naw-national-artist.jpg" alt="Paghugpong Bonding Together Towards Higher Ground" />
+	                        </li>
+	                    </ul>
                 	</div>
+                </div>
             	</div>
             		<div id="body">
             			<div class="inner">
