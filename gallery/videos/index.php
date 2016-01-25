@@ -5,16 +5,16 @@
     		<meta name="description" content="United Architects of the Philippines Student Auxiliary (UAPSA) is the student organization of the United Architects of the Philippines (UAP) in Manuel S. Enverga University Foundation (MSEUF).">
     		<meta name="keywords" content="manuel s. enverga university foundation united architects of the philippines student auxiliary uapsa mseuf">
     		<title>UAPSA :: MSEUF Chapter</title>
-        	<link rel="shortcut icon" type="images/x-icon" href="../support/favicon.ico">
-        	<link href="../css/main.css" rel="stylesheet" type="text/css"/>
-        	<link href="../css/main-responsive.css" rel="stylesheet" type="text/css"/>
-        	<link href="../css/themify-icons.css" rel="stylesheet" type="text/css"/>
-        	<link href="../css/jquery-te.css" rel="stylesheet" type="text/css"/>
-        	<script type="text/javascript" src="../js/jquery.js"></script>
-        	<script type="text/javascript" src="../js/jquery-te.js"></script>
-        	<script type="text/javascript" src="../js/lightbox.js"></script>
-        	<script type="text/javascript" src="../js/main.js"></script>
-        	<script type="text/javascript" src="../js/simplemodal.js"></script>
+        	<link rel="shortcut icon" type="images/x-icon" href="../../support/favicon.ico">
+        	<link href="../../css/main.css" rel="stylesheet" type="text/css"/>
+        	<link href="../../css/main-responsive.css" rel="stylesheet" type="text/css"/>
+        	<link href="../../css/themify-icons.css" rel="stylesheet" type="text/css"/>
+        	<link href="../../css/jquery-te.css" rel="stylesheet" type="text/css"/>
+        	<script type="text/javascript" src="../../js/jquery.js"></script>
+        	<script type="text/javascript" src="../../js/jquery-te.js"></script>
+        	<script type="text/javascript" src="../../js/lightbox.js"></script>
+        	<script type="text/javascript" src="../../js/main.js"></script>
+        	<script type="text/javascript" src="../../js/simplemodal.js"></script>
     	</head>
 	<body>
     	<div id="main">
@@ -23,7 +23,7 @@
             		<div class="inner">
                     		<h1 id="logo">
                         		<a href="index.php">
-                            			<img src="../images/logo-uapsa-mseuf.jpg" alt="UAPSA-MSEUF Logo" />
+                            			<img src="../../images/logo-uapsa-mseuf.jpg" alt="UAPSA-MSEUF Logo" />
                         			<div>
                         				United Architects of the Philippines Student Auxiliary
                         				<span>Manuel S. Enverga University Foundation Chapter</span>
@@ -32,7 +32,7 @@
                     		</h1>
                     		<div class="social-media">
                             	<ul>
-                                	<li><a href="" target="_blank"><img src="../images/icon-social-media-facebook.png" alt="Facebook" /></a></li>
+                                	<li><a href="" target="_blank"><img src="../../images/icon-social-media-facebook.png" alt="Facebook" /></a></li>
                                 </ul>
                             </div>
                 	</div>
@@ -42,47 +42,47 @@
             		<div class="inner">
                 		<ul id="nav">
                         	<li>
-                            	<a href="../index.php">Home</a>
+                            	<a href="../../index.php">Home</a>
                             </li>
                             <li>
-                            	<a href="../about/index.php" class="active">About</a>
+                            	<a href="../../about/index.php">About</a>
                                 <ul>
                                 	<li>
-                                    	<a href="../about/history/index.php">History</a>
+                                    	<a href="../../about/history/index.php">History</a>
                                     </li>
                                 	<li>
-                                    	<a href="../about/vision-mission-objectives/index.php">Vision, Mission, Objectives</a>
+                                    	<a href="../../about/vision-mission-objectives/index.php">Vision, Mission, Objectives</a>
                                     </li>
                                     <li>
-                                    	<a href="../about/affiliations/index.php">Affiliations</a>
+                                    	<a href="../../about/affiliations/index.php">Affiliations</a>
                                     </li>
                                     <li>
-                                    	<a href="../about/awards-and-recognitions/index.php">Awards and Recognitions</a>
+                                    	<a href="../../about/awards-and-recognitions/index.php">Awards and Recognitions</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                            	<a href="../events/index.php">Events</a>
+                            	<a href="../../events/index.php">Events</a>
                             </li>
                             <li>
-                            	<a href="../officers/index.php">Officers FY 2015-2016</a>
+                            	<a href="../../officers/index.php">Officers FY 2015-2016</a>
                             </li>
                             <li>
-                            	<a href="../gallery/index.php">Gallery</a>
+                            	<a href="../../gallery/index.php" class="active">Gallery</a>
                                 <ul>
                                 	<li>
-                                    	<a href="../gallery/photos/index.php">Photos</a>
+                                    	<a href="../../gallery/photos/index.php">Photos</a>
                                     </li>
                                     <li>
-                                    	<a href="../gallery/videos/index.php">Videos</a>
+                                    	<a href="../../gallery/videos/index.php" class="active">Videos</a>
                                     </li>
                                     <li>
-                                    	<a href="../gallery/activities/index.php">Activities</a>
+                                    	<a href="../../gallery/activities/index.php">Activities</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                            	<a href="../contact-us/index.php">Contact Us</a>
+                            	<a href="../../contact-us/index.php">Contact Us</a>
                             </li>
                         </ul>
                         <div class="search">
