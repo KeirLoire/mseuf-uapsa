@@ -33,6 +33,9 @@
                     		<div class="social-media">
                             	<ul>
                                 	<li><a href="" target="_blank"><img src="images/icon-social-media-facebook.png" alt="Facebook" /></a></li>
+                                	<li><a href="" target="_blank"><img src="images/icon-social-media-twitter.png" alt="Twitter" /></a></li>
+                                	<li><a href="" target="_blank"><img src="images/icon-social-media-instagram.png" alt="Instagram" /></a></li>
+                                	<li><a href="" target="_blank"><img src="images/icon-social-media-google-plus.png" alt="Google+" /></a></li>
                                 </ul>
                             </div>
                 	</div>
