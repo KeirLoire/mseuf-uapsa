@@ -63,7 +63,7 @@ html { background: url("../images/background.jpg") #89220f repeat scroll 0 0; ba
 #nav > li a { display: block; padding: 16px 25px; text-decoration: none; color: #fff; font-size: 12px; font-weight: bold; }
 #nav > li a:hover { background: rgba(255,255,255,0.1); }
 #nav > li > a.active { background: #24328a; }
-#nav > li > ul { display: none; position: absolute; z-index: 999; border-top: 5px solid #b52200; }
+#nav > li > ul { display: none; position: absolute; z-index: 999; }
 #nav > li:hover > ul { display: block; }
 #nav > li > ul.selected { border-top: 5px solid #24328a; }
 #nav > li > ul > li { background: #b52200; opacity: 0.85; }
