@@ -41,21 +41,21 @@
    		<div id="navigation">
 	    		<div class="inner">
 	        		<ul id="nav">
-		                	<li><a href="index.php" class="active">Home</a></li>
-		                    	<li><a href="about/index.php">About</a><ul>
-		                        	<li><a href="../about/history/index.php">History</a></li>
-		                        	<li><a href="about/vision-mission-objectives/index.php">Vision, Mission, Objectives</a></li>
+		                	<li><a href="http://uapsa-mseuf.azurewebsites.net/" class="active">Home</a></li>
+		                    	<li><a href="about/">About</a><ul>
+		                        	<li><a href="../about/history/">History</a></li>
+		                        	<li><a href="about/vision-mission-objectives/">Vision, Mission, Objectives</a></li>
 		                        	<li><a href="about/affiliations/index.php">Affiliations</a></li>
-		                        	<li><a href="about/awards-and-recognitions/index.php">Awards and Recognitions</a></li>
+		                        	<li><a href="about/awards-and-recognitions/">Awards and Recognitions</a></li>
 		                        </ul></li>
-		                        <li><a href="events/index.php">Events</a></li>
-		                        <li><a href="officers/index.php">Officers FY 2015-2016</a></li>
-		                        <li><a href="gallery/index.php">Gallery</a><ul>
-		                        	<li><a href="../gallery/photos/index.php">Photos</a></li>
-		                        	<li><a href="../gallery/videos/index.php">Videos</a></li>
-		                        	<li><a href="../gallery/activities/index.php">Activities</a></li>
+		                        <li><a href="events/">Events</a></li>
+		                        <li><a href="officers/">Officers FY 2015-2016</a></li>
+		                        <li><a href="gallery/">Gallery</a><ul>
+		                        	<li><a href="../gallery/photos/">Photos</a></li>
+		                        	<li><a href="../gallery/videos/">Videos</a></li>
+		                        	<li><a href="../gallery/activities/">Activities</a></li>
 		                        </ul></li>
-		                    	<li><a href="contact-us/index.php">Contact Us</a></li>
+		                    	<li><a href="contact-us/">Contact Us</a></li>
 	                        </ul>
 	                        <div class="search">
 		                        	<form method="post" action="#">
