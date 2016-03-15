@@ -25,10 +25,27 @@ $(function() {
 var bannerwidth = 0;
 var bannerheight = 0;
 $(document).ready(function() {
-   bannerwidth = $('#banner').width();
-   bannerheight = bannerwidth * .3125;
-   $('#banner').css('height',bannerheight+'px');
-   $('#slider > li').css('height',bannerheight+'px');
+	bannerwidth = $('#banner').width();
+	bannerheight = bannerwidth * .3125;
+	$('#banner').css('height',bannerheight+'px');
+	$('#slider > li').css('height',bannerheight+'px');
+	
+	
+	$("#mobile-nav").addClass("js").before('<div id="mobile-menu">&#9776;</div>');
+	$("#mobile-menu").click(function(){
+		$("#mobile-nav").slideToggle();
+		$("#mobile-menu").toggle();
+	});
+	$("#mobile-nav-back").click(function(){
+		$("#mobile-nav").slideToggle();
+		$("#mobile-menu").toggle();
+	});
+	$(window).resize(function(){
+		if(window.innerWidth > 640){
+			$("#mobile-nav").removeAttr("style");
+			$("#mobile-menu").removeAttr("style");
+		}
+	});
 });
 function playSlider() {
    var slideCount = $('#slider > li').size();
@@ -158,6 +175,6 @@ function conDelItem(id,table) {
 
 $(document).ready(function() {
    playSlider();
-   selectHomeSection('announcements');
+   selectHomeSection('events');
 });
       

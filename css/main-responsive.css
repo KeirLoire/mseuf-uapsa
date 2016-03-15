@@ -1,24 +1,187 @@
-/* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) {
- 
+@media only screen and (max-width: 1000px) {
+	#main{
+		width: 100%;
+		padding: 0;
+		margin: 0;
+		overflow: hidden;
+	}
+	#header{
+		text-align: center;
+	}
+	#logo > a > div{
+		font-size: 27px;
+	}
+	#logo > a > div > span{
+		font-size: 18px;
+		border-top: none;
+	}
+	#logo > a {
+		text-decoration: none;
+	}
+	#logo, #logo > a > img, #logo > a > div { 
+		float: none;
+	}
+	#logo > a > img{
+		width: 150px;
+		height: 150px;
+	}
+	.social-media{
+		float: right;
+		margin: 0;
+	}
+	.social-media > ul > li{
+		float: right;
+	}
+	#nav > li > a{
+		padding: 16px 8px;
+	}
+	.search input:first-child{
+		width: 90px;
+	}
+	.search  input:last-child{
+		padding: 10px 10px;
+		height: 37px;
+	}
+	#banner-holder, #body{
+		padding: 15px;
+	}
+	.leftcol{
+		width: 100%;
+	}
+	.rightcol > .widget{
+		display: none;
+	}
+	.rightcol{
+		width: 100%;
+		float: none;
+		text-align: center;
+	}
+	.rightcol > .sub-nav{
+		display: inline-block;
+		width:100%;
+	}
+	#partners{
+		width: 100%;
+	}
+	.article .details { 
+		width: 360px; 
+	}
 }
 
-/* Tablet Portrait size to standard 960 (devices and browsers) */
-@media only screen and (min-width: 768px) and (max-width: 959px) {
+@media only screen and (max-width: 640px){
+	#logo > a > div, .social-media{
+		display: none;
+	}
+	#banner-holder{
+		padding: 0;
+		margin: 0;
+	}
+	#banner{
+		display: none;
+	}
+	#mobile-banner{
+		display: block;
+	}
+	#mobile-banner > ul > li > a > img{
+		width: 100%;
+	}
+	#nav{
+		display: none;
+	}
+	#mobile-menu{
+		float:left;
+		display: block;
+		width: 100%;
+		height: 30px;
+		font-size: 25px;
+		font-weight: bold;
+		color: #FFFFFF;
+		padding: 10px;
+		cursor: pointer;
+		-moz-transition: all .5s ease-in;
+		-o-transition: all .5s ease-in;
+		-webkit-transition: all .5s ease-in;
+		transition: all .5s ease-in;
+	}
+	#mobile-menu:hover{
+		background: #000000;
+	}
+	#mobile-nav {
+		text-align: center;
+		width: 100%;
+		border-right: none;
+	}
+	#mobile-nav.js{
+		display: none;
+	}
 	
-}
-
-/* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) {
+	#mobile-nav > li > a{
+		width: 100%;
+		text-decoration: none;
+		color: #FFFFFF;
+		display: block;
+		padding: 15px 0;
+	}
+	#mobile-nav > li > a:hover{
+		background: #000000;
+	}
+	.search{
+		padding: 20px 0;
+		margin: 0;
+		text-align: center;
+	}
+	.search, .search input:first-child, .search input:last-child{
+		float: none;
+	}
 	
-}
-
-/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.search input:first-child{
+		width: 300px;
+	}
 	
-}
-
-/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 479px) {
-	
+	.section-wrapper > ul > li{
+		padding: 10px 10px;
+		font-weight: normal;
+		font-size: 20px;
+	}
+	#partners{
+		width: 100%;
+	}
+	#partners > .header > .context > h2 {
+		font-weight: normal;
+		font-size: 20px;
+	}
+	#partners > .header > .content > .partner{
+		margin: 5px;
+	}
+	.article > .photo, .article > .details{
+		text-align:center;
+		float: none;
+		width: 100%;
+	}
+	.article > .details > .desc > .readmore{
+		float: none;
+	}
+	.announcement > .header, .announcement > .date, .announcement > .body{
+		text-align: center;
+	}
+	.announcement > .body > a > img{
+		width: 100%;
+	}
+	#photos > .content > .album, #other-albums > .content > .album{
+		width: 100%;
+		overflow: hidden;
+	}
+	#photos > .content > .album .title, #other-albums > .content > .album .title{
+		font-size: 25px;
+		color: #FFFFFF;
+	}
+	#other-videos > .content{
+		text-align: center;
+	}
+	#photos > .content.photos > a{
+		width: 100%;
+		overflow: hidden;
+		padding: 5px 0;
+		margin: 0;
+	}
 }
